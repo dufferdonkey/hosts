@@ -3,6 +3,7 @@
 
 ### Details: 
 [List](data/host.txt)
+
 [Raw](data/host.txt)
 ## Usage:
 Using with [Pi-Hole](https://pi-hole.net)
