@@ -2,7 +2,7 @@
 
 
 ### Details: 
-[List](data/host.txt)
+[List](data/hosts)
 
 [Raw](https://raw.githubusercontent.com/dufferdonkey/Blocklist/main/data/hosts)
 ## Usage:
