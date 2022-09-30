@@ -12,3 +12,7 @@ Using with [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
 
 
 ## Main List
+| List  | Website |
+| ------------- | ------------- |
+| AdGuard Base filter | [Link]()  |
+| Content Cell  | Content Cell  |
