@@ -2,7 +2,7 @@
 
 
 ### Details: 
-[List](data/hosts)
+[List](data/)
 
 [Raw](https://github.com/dufferdonkey/hosts/raw/main/data/hosts)
 ## Usage:
