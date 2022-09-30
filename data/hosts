@@ -1,7 +1,7 @@
 # Title: dufferdonkey filters
 
 # Description:     Blocks Ads, Tracking & Analytics.
-# Last modified:   Sat, 01 Oct 2022 03:23:25 UTC+05:30
+# Last modified:   Sat, 01 Oct 2022 4:45:25 UTC+05:30
 # Entries:         123
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
@@ -134,3 +134,16 @@
 0.0.0.0 optimize.google.com
 0.0.0.0 console.googletagservices.com
 0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 w3-reporting.reddit.com 
+0.0.0.0 events.redditmedia.com 
+0.0.0.0 events.reddit.com
+0.0.0.0 stats.redditmedia.com
+0.0.0.0 d.reddit.com
+0.0.0.0 ads.flipkart.com
+0.0.0.0 flap-tk.ads.flipkart.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 ads.linkedin.com
