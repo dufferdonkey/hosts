@@ -4,7 +4,7 @@
 ### Details: 
 [List](data/hosts)
 
-[Raw](https://raw.githubusercontent.com/dufferdonkey/hosts/data/hosts)
+[Raw](https://github.com/dufferdonkey/hosts/raw/main/data/hosts)
 ## Usage:
 Using with [Pi-Hole](https://pi-hole.net)
 
