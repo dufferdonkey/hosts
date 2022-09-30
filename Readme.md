@@ -4,7 +4,7 @@
 ### Details: 
 [List](data/host.txt)
 
-[Raw](https://raw.githubusercontent.com/dufferdonkey/Blocklist/main/data/host.txt)
+[Raw](https://raw.githubusercontent.com/dufferdonkey/Blocklist/main/data/hosts)
 ## Usage:
 Using with [Pi-Hole](https://pi-hole.net)
 
