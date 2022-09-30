@@ -1,7 +1,7 @@
 # The Block List 
 
 
-### Details:
+### Details: [Link](data/host.txt)
 
 ## Usage:
 Using with [Pi-Hole](https://pi-hole.net)
