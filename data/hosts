@@ -2,7 +2,7 @@
 
 # Description:     Blocks Ads, Tracking & Analytics.
 # Last modified:   Sat, 01 Oct 2022 03:23:25 UTC+05:30
-# Entries:         119
+# Entries:         123
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
 # Version:         2022.10.1.1
@@ -130,3 +130,7 @@
 0.0.0.0 wsdk-files.in.webengage.com
 0.0.0.0 a.quora.com
 0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 www.googleanalytics.com
+0.0.0.0 optimize.google.com
+0.0.0.0 console.googletagservices.com
+0.0.0.0 www-google-analytics.l.google.com
