@@ -1,8 +1,8 @@
 # Title: dufferdonkey filters
 
 # Description:     Blocks Ads, Tracking & Analytics.
-# Last modified:   Sat, 01 Oct 2022 4:45:25 UTC+05:30
-# Entries:         123
+# Last modified:   Sat, 01 Oct 2022 5:12:25 UTC+05:30
+# Entries:         161
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
 # Version:         2022.10.1.1
@@ -147,3 +147,28 @@
 0.0.0.0 flap-tk.ads.flipkart.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.linkedin.com
+0.0.0.0 diagmon-serviceapi.samsungdm.com
+0.0.0.0 samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 ads.samsungads.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 controller.india.xiaomi.com
+0.0.0.0 digianalytics.airtel.in
+0.0.0.0 smetrics.vodafone.in
+0.0.0.0 evt.mxplay.com
+0.0.0.0 logs.hotstar.com
+0.0.0.0 events-analytics.hotstar.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 ads5-noneu.truecaller.com
+0.0.0.0 batchlogging4-eu.truecaller.com
+0.0.0.0 nitro-discordapp.com
+0.0.0.0 intake-logging.wikimedia.org
+0.0.0.0 stats.wikimedia.org
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 nmtracking.netflix.com
+0.0.0.0 beacon.netflix.com
