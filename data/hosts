@@ -1,7 +1,7 @@
 # Title: dufferdonkey filters
 
 # Description:     Blocks Ads, Tracking & Analytics.
-# Last modified:   Sat, 01 Oct 2022 5:12:25 UTC+05:30
+# Last modified:   Sat, 02 Oct 2022 7:53:10 UTC+05:30
 # Entries:         161
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
@@ -10,165 +10,426 @@
 # Source:          https://raw.githubusercontent.com/dufferdonkey/hosts/main/data/hosts
 
 #-----------------------List---------------------#
- 
+
+# A
+# [a-ads.com]
+0.0.0.0 ad.a-ads.com
+
+# [adcolony.com]
+0.0.0.0 adcolony.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
+
+# [abobe.com]
+0.0.0.0 campaign.adobe.com
+0.0.0.0 geo.adobe.com
+0.0.0.0 sstats.adobe.com
+
+# [ads-twitter.com]
+0.0.0.0 ads-twitter.com
+0.0.0.0 static.ads-twitter.com
+
+# [airtel.in]
+0.0.0.0 digianalytics.airtel.in
+
+# [aiv-delivery.net]
+0.0.0.0 api.eu-west-1.aiv-delivery.net
+
+# [akamaized.net]
 0.0.0.0 ninja.akamaized.net
-0.0.0.0 c.go-mpulse.net
-0.0.0.0 ma312-r.analytics.edgesuite.net
+
+# [amazon-adsystem.com]
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+
+# [amazon.com]
+0.0.0.0 aan.amazon.com
+0.0.0.0 aax-us-east-retail-direct.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+
+# [amazon.in]
+0.0.0.0 aax-eu.amazon.in
+0.0.0.0 fls-eu.amazon.in
+
+# [amazonaws.com]
+0.0.0.0 inneractive-assets.s3-eu-west-1.amazonaws.com
+
+# [amplitude.com]
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+
+# [app-measurement.com]
+0.0.0.0 app-measurement.com
+
+# [appflyer.com]
+0.0.0.0 inapps.appflyer.com
+
+
+# [apple.com]
 0.0.0.0 ca.iadsdk.apple.com
-0.0.0.0 rt.applvn.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+
+# [applovin.com]
+0.0.0.0 applovin.com
+0.0.0.0 a.applovin.com
+0.0.0.0 d.applovin.com
 0.0.0.0 ms.applovin.com
-0.0.0.0 ms.applvn.com
+0.0.0.0 ms4.applovin.com
+0.0.0.0 rt.applovin.com
+
+# [applvn]
+0.0.0.0 applvn.com
+0.0.0.0 a.applvn.com
 0.0.0.0 d.applvn.com
-0.0.0.0 ms4.applvn.com
-0.0.0.0 ad.a-ads.com
-0.0.0.0 register.appsflyer.com
-0.0.0.0 inapps.appsflyer.com
-0.0.0.0 stats.appsflyer.com
-0.0.0.0 t.appsflyer.com
-0.0.0.0 launches.appsflyer.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 rt.applvn.com
+
+# [appsflyer.com]
+0.0.0.0 appsflyer.com
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 t.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
-0.0.0.0 aax-eu.amazon-adsystem.com
-0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 d2kk0o3fr7ed01.cloudfront.net
-0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
-0.0.0.0 d2j042cj1421wi.cloudfront.net
-0.0.0.0 mads.amazon-adsystem.com
-0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 aax.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon.in
-0.0.0.0 api.eu-west-1.aiv-delivery.net
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 bs.serving-sys.com
-0.0.0.0 fls-eu.amazon.in
-0.0.0.0 s.amazon-adsystem.com
+
+# B
+# [bing.com]
+0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
+
+# [branch.io]
+0.0.0.0 branch.io
+0.0.0.0 api.branch.io
 0.0.0.0 api2.branch.io
-0.0.0.0 ws.tapjoyads.com
-0.0.0.0 connect.tapjoy.com
-0.0.0.0 rpc.tapjoy.com
-0.0.0.0 in1.wzrkt.com
+
+# C
+# [chartbeat.com]
+0.0.0.0 api.chartbeat.com
+0.0.0.0 static.chartbeat.com
+
+# [chartbeat.net]
+0.0.0.0 ping.chartbeat.net
+
+# [chartboost.com]
+0.0.0.0 live.chartboost.com
+0.0.0.0 ssp-events.chartboost.com
+
+# [clarity.ms]
+0.0.0.0 clarity.ms
+0.0.0.0 www.clarity.ms
+
+# [crashlytics.com]
 0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 static.cloudflareinsights.com
-0.0.0.0 securepubads.g.doubleclick.net
+
+# D
+# [doubleclick.net]
+0.0.0.0 doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 src.ebay-us.com
-0.0.0.0 app-measurement.com
-0.0.0.0 analytics.google.com
+0.0.0.0 securepubads.g.doubleclick.net
+
+# E
+
+# F
+# [fbcdn.net]
+0.0.0.0 sonar-iad.xx.fbcdn.net
+
+# [forbes.com]
+0.0.0.0 fuse.forbes.com
+0.0.0.0 geolocation.forbes.com
+
+# G
+# [google-analytics.com]
 0.0.0.0 google-analytics.com
-0.0.0.0 googletagmanager.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+
+# [google.com]
+0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
+0.0.0.0 analytics.google.com
+0.0.0.0 optimize.google.com
+0.0.0.0 www.google-analytics.l.google.com
+
+# [googleadservices.com]
+0.0.0.0 googleadservices.com
 0.0.0.0 partner.googleadservices.com
+
+# [googleanalytics.com]
+0.0.0.0 googleanalytics.com
+
+# [googleapis.com]
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+
+# [googleoptimize.com]
+0.0.0.0 googleoptimize.com
+
+# [googlesyndication.com]
+0.0.0.0 googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 s.youtube.com
-0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 ssl.google-analytics.com
+
+# [googletagmanager.com]
+0.0.0.0 googletagmanager.com
+
+# [googletagservices.com]
+0.0.0.0 console.googletagservices.com
+
+# [gvt2.com]
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
+
+# [gvt3.com]
 0.0.0.0 beacons5.gvt3.com
-0.0.0.0 googleoptimize.com
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com.tr
-0.0.0.0 ads.inmobi.com
-0.0.0.0 dit.whatsapp.net
-0.0.0.0 trk.pinterest.com
-0.0.0.0 tr.snapchat.com
-0.0.0.0 app-analytics-v2.snapchat.com
-0.0.0.0 sc-static.net
+
+# H
+# [hotstar.com]
+0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 hspx.hotstar.com
 0.0.0.0 segment.hotstar.com
+
+# [htmedia.in]
+0.0.0.0 analytics.htmedia.in
+
+# I
+# [indiatimes.com]
+0.0.0.0 mobileads.indiatimes.com
+
+# [inmobi.com]
+0.0.0.0 ads.inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 glance.inmobi.com
+0.0.0.0 in.api.glance.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+
+# J
+# [jio.com]
+0.0.0.0 collect.media.jio.com
+
+# K
+
+# L
+# [linkedin.com]
+0.0.0.0 ads.linkedin.com
+0.0.0.0 mid4.linkedin.com
+
+# M
+# [metrics.icloud.com]
+0.0.0.0 metrics.icloud.com
+
+# [microsoft.com]
+0.0.0.0 advertise.bingads.microsoft.com
+0.0.0.0 bingads.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
+
+# [miui.com]
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 api.sec.miui.com
+0.0.0.0 update.avlyun.sec.miui.com
+0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 api.sec.intl.miui.com
+
+# [moatads.com]
+0.0.0.0 moatads.com
+0.0.0.0 z.moatads.com
+
+# [msn.com]
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 ads1.msn.com
+0.0.0.0 ads2.msn.com
+0.0.0.0 mobileads.msn.com
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 c.msn.com
-0.0.0.0 browser.events.data.msn.com
-0.0.0.0 mid4.linkedin.com
-0.0.0.0 clarity.ms
-0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 js-agent.newrelic.com
+0.0.0.0 srtb.msn.com
+0.0.0.0 popup.msn.com
+
+# N
+# [netflix.com]
+0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 nmtracking.netflix.com
+
+# [newrelic.com]
 0.0.0.0 insights-collector.newrelic.com
-0.0.0.0 ads-router-noneu.truecaller.com
-0.0.0.0 pushid-noneu.truecaller.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 mobile-collector.newrelic.com
+
+# O
+
+# P
+# [pangle.io]
+0.0.0.0 pangle.io
+0.0.0.0 api16-access-sg.pangle.io
+
+# [pinterest.com]
+0.0.0.0 log.pinterest.com
+0.0.0.0 trk.pinterest.com
+
+# [popads.net]
 0.0.0.0 c1.popads.net
-0.0.0.0 init.supersonicads.com
+
+# [pubmatic.com]
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 ads.pubmatic.com
-0.0.0.0 z.moatads.com
-0.0.0.0 collect.media.jio.com
-0.0.0.0 www.tracking.india.miui.com
+
+# Q
+# [quantummetric.com]
+0.0.0.0 norfolksouthern-app.quantummetric.com
+
+# [quora.com]
+0.0.0.0 a.quora.com
+
+# R
+# [reddit.com]
+0.0.0.0 alb.reddit.com
+0.0.0.0 d.reddit.com
+0.0.0.0 events.reddit.com
+0.0.0.0 w3-reporting.reddit.com 
+
+# [redditmedia.com]
+0.0.0.0 stats.redditmedia.com
+0.0.0.0 events.redditmedia.com
+
+# S
+# [samsung.com]
+0.0.0.0 insights.samsung.com
+
+# [samsungads.com]
+0.0.0.0 samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 ads.samsungads.com
+
+# [samsungdm.com]
+0.0.0.0 diagmon-serviceapi.samsungdm.com
+
+# [scorecardresearch.com]
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 udm.scorecardresearch.com
+
+# [segment.com]
+0.0.0.0 cdn.segment.com
+0.0.0.0 cdn-settings.segment.com
+
+# [segment.io]
+0.0.0.0 api.segment.io
+
+# [serving-sys.com]
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 lm.serving-sys.com
+0.0.0.0 secure-ds.serving-sys.com
+
+# [shazam.com]
+0.0.0.0 beacon.shazam.com
+
+# [snapchat.com]
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 tr.snapchat.com
+
+# [soundcloud.com]
+0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 promoted.soundcloud.com
+0.0.0.0 telemetry.soundcloud.com
+
+# [splkmobile.com]
+0.0.0.0 api.splkmobile.com
+0.0.0.0 0523da02.api.splkmobile.com
+0.0.0.0 be0c986b.api.splkmobile.com
+
+# [supersonicads.com]
+0.0.0.0 init.supersonicads.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 pm-gateway.supersonicads.com
+
+# T
+# [taboola.com]
+0.0.0.0 cdn.taboola.com
+0.0.0.0 images.taboola.com
+0.0.0.0 sync.taboola.com
+0.0.0.0 hb.bidder.taboola.com
+
+# [tapjoy.com]
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 rpc.tapjoy.com
+
+# [tapjoyads.com]
+0.0.0.0 ws.tapjoyads.com
+
+# [truecaller.com]
+0.0.0.0 ads-router-noneu.truecaller.com
+0.0.0.0 ads5-noneu.truecaller.com
+0.0.0.0 pushid-noneu.truecaller.com
+0.0.0.0 batchlogging4-eu.truecaller.com
+
+# [twitter.com]
+0.0.0.0 advertising.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 ads-bidder-api.twitter.com
+
+# U
+# [unity3d.com]
+0.0.0.0 configv2.unityads.unity3d.com
+
+# W
+# [webengage.com]
+0.0.0.0 c.in.webengage.com
+0.0.0.0 wsdk-files.in.webengage.com
+
+# [whatsapp.net]
+0.0.0.0 dit.whatsapp.net
+
+# [wp.com]
+0.0.0.0 pixel.wp.com
+0.0.0.0 stats.wp.com
+
+# [wzrkt.com]
+0.0.0.0 in1.wzrkt.com
+
+# [wikimedia.org]
+0.0.0.0 geoiplookup.wikimedia.org
+0.0.0.0 intake-logging.wikimedia.org
+0.0.0.0 intake-analytics.wikimedia.org
+
+# X
+# [xiaomi.com]
+0.0.0.0 controller.india.xiaomi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 statusapi.micloud.xiaomi.net
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 api.sec.intl.miui.com
-0.0.0.0 flash.sec.intl.miui.com
-0.0.0.0 api.sec.miui.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
-0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
-0.0.0.0 update.avlyun.sec.miui.com
-0.0.0.0 telemetry.soundcloud.com 
-0.0.0.0 mc.yandex.ru
+
+# Y
+# [yahoo.com]
+0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geo.query.yahoo.com
-0.0.0.0 app.ssp.yahoo.com
-0.0.0.0 norfolksouthern-app.quantummetric.com
-0.0.0.0 api.segment.io
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 na.albtls.t.co
-0.0.0.0 pixel.wp.com
-0.0.0.0 c.in.webengage.com
-0.0.0.0 wsdk-files.in.webengage.com
-0.0.0.0 a.quora.com
-0.0.0.0 configv2.unityads.unity3d.com
-0.0.0.0 www.googleanalytics.com
-0.0.0.0 optimize.google.com
-0.0.0.0 console.googletagservices.com
-0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 advertising.twitter.com
-0.0.0.0 analytics.twitter.com
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 alb.reddit.com
-0.0.0.0 w3-reporting.reddit.com 
-0.0.0.0 events.redditmedia.com 
-0.0.0.0 events.reddit.com
-0.0.0.0 stats.redditmedia.com
-0.0.0.0 d.reddit.com
-0.0.0.0 ads.flipkart.com
-0.0.0.0 flap-tk.ads.flipkart.com
+
+# [yandex.ru]
+0.0.0.0 mc.yandex.ru
+
+# [youtube.com]
 0.0.0.0 ads.youtube.com
-0.0.0.0 ads.linkedin.com
-0.0.0.0 diagmon-serviceapi.samsungdm.com
-0.0.0.0 samsungads.com
-0.0.0.0 config.samsungads.com
-0.0.0.0 ads.samsungads.com
-0.0.0.0 iadsdk.apple.com
-0.0.0.0 cf.iadsdk.apple.com
-0.0.0.0 ad.xiaomi.com
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 controller.india.xiaomi.com
-0.0.0.0 digianalytics.airtel.in
-0.0.0.0 smetrics.vodafone.in
-0.0.0.0 evt.mxplay.com
-0.0.0.0 logs.hotstar.com
-0.0.0.0 events-analytics.hotstar.com
-0.0.0.0 log.pinterest.com
-0.0.0.0 app-analytics.snapchat.com
-0.0.0.0 ads5-noneu.truecaller.com
-0.0.0.0 batchlogging4-eu.truecaller.com
-0.0.0.0 nitro-discordapp.com
-0.0.0.0 intake-logging.wikimedia.org
-0.0.0.0 stats.wikimedia.org
-0.0.0.0 customerevents.netflix.com
-0.0.0.0 presentationtracking.netflix.com
-0.0.0.0 nmtracking.netflix.com
-0.0.0.0 beacon.netflix.com
+0.0.0.0 s.youtube.com
+
+# Z
