@@ -1,17 +1,16 @@
 # The Block List 
 
-
-### Details: 
+### Details: Created List from [Link](https://github.com/dufferdonkey/hosts#main-block-list)
 [List](data/)
 
 [Raw](https://github.com/dufferdonkey/hosts/raw/main/data/hosts)
 ## Usage:
-Using with [Pi-Hole](https://pi-hole.net)
 
 Using with [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
 
+Using with [Pi-Hole](https://pi-hole.net)
 
-## Main List
+## Main Block List
 | List  | Website |
 | ------------- | ------------- |
 | AdGuard Base | [Link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) |
