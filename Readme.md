@@ -4,6 +4,7 @@
 [List](data/)
 
 [Raw](https://github.com/dufferdonkey/hosts/raw/master/data/hosts)
+
 ## Usage
 
 Using with [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
@@ -25,3 +26,4 @@ Using with [Pi-Hole](https://pi-hole.net)
 | Peter Lowe | [Link](https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts)
 | Crazy Max(Windows) | [Link](https://github.com/crazy-max/WindowsSpyBlocker/blob/master/data/hosts/spy.txt) |
 | 1Hosts (Lite) | [Link](https://o0.pages.dev/Lite/domains.txt) |
+| easylist | [Link](https://easylist.to)
