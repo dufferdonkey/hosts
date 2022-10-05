@@ -1,9 +1,9 @@
 # The Block List 
 
-#### Description - Created list from [Link](https://github.com/dufferdonkey/hosts#main-block-list)
+#### Description - Created list from [Link](https://github.com/dufferdonkey/hosts#master-block-list)
 [List](data/)
 
-[Raw](https://github.com/dufferdonkey/hosts/raw/main/data/hosts)
+[Raw](https://github.com/dufferdonkey/hosts/raw/master/data/hosts)
 ## Usage
 
 Using with [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
