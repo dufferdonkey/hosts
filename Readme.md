@@ -3,7 +3,7 @@
 #### Description - Created list from [Link](https://github.com/dufferdonkey/hosts#master-block-list)
 [List](data/)
 
-[Raw](https://github.com/dufferdonkey/hosts/raw/master/data/hosts)
+[Raw](https://raw.githubusercontent.com/dufferdonkey/hosts/master/data/hosts.txt)
 
 ## Usage
 
@@ -22,6 +22,7 @@ Using with [Pi-Hole](https://pi-hole.net)
 | Dandelion Sprout | [Link](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt)
 | Disconnect.me | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt)  |
 | easylist | [Link](https://easylist.to) |
+| GodByeAds | [Link](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) |
 | OISD Basic | [Link](https://abp.oisd.nl/basic/) |
 | Peter Lowe | [Link](https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts) |
-| Steven Black  | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)  |
+| Steven Black👍 | [Link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)  |
