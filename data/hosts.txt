@@ -107,6 +107,7 @@
 # [amazonaws.com]
 0.0.0.0 inneractive-assets.s3-eu-west-1.amazonaws.com
 0.0.0.0 cloudfront-labs.amazonaws.com
+0.0.0.0 alexa-sitestats.s3.amazonaws.com
 
 # [amazon.co.uk]
 0.0.0.0 msh.amazon.co.uk
@@ -194,6 +195,9 @@
 0.0.0.0 api.branch.io
 0.0.0.0 api2.branch.io
 
+# [betteradsystem.com]
+0.0.0.0 betteradsystem.com
+
 # C
 
 # [chartbeat.com]
@@ -216,6 +220,9 @@
 
 # [crazyegg.com]
 0.0.0.0 script.crazyegg.com
+
+# [crazypopups.com]
+0.0.0.0 crazypopups.com
 
 # [crwdcntrl.net]
 0.0.0.0 tags.crwdcntrl.net
@@ -276,6 +283,7 @@
 
 # [demdex.net]
 0.0.0.0 dpm.demdex.net
+0.0.0.0 adobedc.demdex.net
 
 # [doubleclick.net]
 0.0.0.0 doubleclick.net
@@ -297,7 +305,7 @@
 0.0.0.0 rover.ebay.com
 0.0.0.0 svcs.ebay.com
 
-# [epicgames.com
+# [epicgames.com]
 0.0.0.0 tracking.epicgames.com
 
 # [exponea.com]
@@ -316,6 +324,9 @@
 0.0.0.0 desa.fkapi.net
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desr.fkapi.net
+
+# [fullstory.com]
+0.0.0.0 edge.fullstory.com
 
 # G
 
@@ -392,6 +403,10 @@
 # [hexagon-analytics.com]
 0.0.0.0 hexagon-analytics.com
 
+# [hdfcbank.com]
+0.0.0.0 smetrics.hdfcbank.com
+0.0.0.0 tmetrics.hdfcbank.com
+
 # I
 
 # [indiatimes.com]
@@ -433,6 +448,7 @@
 # [linkedin.com]
 0.0.0.0 ads.linkedin.com
 0.0.0.0 mid4.linkedin.com
+0.0.0.0 px.ads.linkedin.com
 
 # [lum-sdk.io]
 0.0.0.0 perr.lum-sdk.io
@@ -522,6 +538,20 @@
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 corp.sts.microsoft.com
 
+# [mobileapptracking.com]
+0.0.0.0 mobileapptracking.com
+0.0.0.0 engine.mobileapptracking.com
+0.0.0.0 deeplink.mobileapptracking.com
+0.0.0.0 943.engine.mobileapptracking.com
+0.0.0.0 195724.engine.mobileapptracking.com
+0.0.0.0 199107.engine.mobileapptracking.com
+0.0.0.0 20298.engine.mobileapptracking.com
+0.0.0.0 8604.engine.mobileapptracking.com
+0.0.0.0 192630.engine.mobileapptracking.com
+
+# [mintegral.net]
+0.0.0.0 analytics-tcp.mintegral.net
+
 # N
 
 # [naukri.com]
@@ -542,6 +572,7 @@
 
 # [netcoresmartech.com]
 0.0.0.0 cdnt.netcoresmartech.com
+0.0.0.0 pn.netcoresmartech.com
 
 # [ns1p.net]
 0.0.0.0 cs.ns1p.net
@@ -559,6 +590,7 @@
 
 # [omtrdc.net]
 0.0.0.0 flipkart.d1.sc.omtrdc.net
+0.0.0.0 housingdevelopment.tt.omtrdc.net
 
 # [onthe.io]
 0.0.0.0 cdn.onthe.io
@@ -741,6 +773,7 @@
 0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 pushid-noneu.truecaller.com
 0.0.0.0 batchlogging4-eu.truecaller.com
+0.0.0.0 batchlogging4-noneu.truecaller.com
 
 # [twitter.com]
 0.0.0.0 advertising.twitter.com
@@ -748,6 +781,9 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
+
+# [t.co]
+0.0.0.0 na.albtls.t.co
 
 # [typekit.net]
 0.0.0.0 p.typekit.net
@@ -806,6 +842,7 @@
 
 # [wzrkt.com]
 0.0.0.0 in1.wzrkt.com
+0.0.0.0 in1-spiky.wzrkt.com
 
 # [wikimedia.org]
 0.0.0.0 geoiplookup.wikimedia.org
@@ -846,6 +883,13 @@
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 c2shb.ssp.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 fc.yahoo.com
+0.0.0.0 jill.fc.yahoo.com
+0.0.0.0 pr.comet.yahoo.com
 
 # [yahoosandbox.com]
 0.0.0.0 jac.yahoosandbox.com
