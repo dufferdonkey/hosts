@@ -22,7 +22,7 @@ Using with [Pi-Hole](https://pi-hole.net)
 | Dandelion Sprout | [Link](https://github.com/DandelionSprout/adfilt)
 | Disconnect.me | [Link](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt)  |
 | easylist | [Link](https://easylist.to) |
-| GodByeAds | [Link](https://github.com/jerryn70/GoodbyeAds/tree/master/Hosts) |
+| GoodByeAds | [Link](https://github.com/jerryn70/GoodbyeAds/tree/master/Hosts) |
 | OISD | [Link](https://oisd.nl) |
 | Peter Lowe | [Link](https://pgl.yoyo.org/as/) |
 | Steven Black👍 | [Link](https://github.com/StevenBlack/hosts)  |
