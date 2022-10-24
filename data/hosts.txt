@@ -1,15 +1,16 @@
-# Title: dufferdonkey filters
+# Title: dufferdonkey's filters
 
-# Description:     This hosts file is a combined of hosts from reliable sources. Blocks ads, cookies, tracking & analytics.
-# Last modified:   Wed, 19 Oct 2022 00:51:41 UTC+05:30
+# Description:     This host file is a combined of hosts from reliable sources. Blocks ads, cookies, tracking & analytics.
+# Last modified:   Wed, 25 Oct 2022 03:47:22 UTC+05:30
 # Entries:         432
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
-# Version:         2022.10.19.1
+# Version:         2022.10.25.1
 # Start date:      Sat, 01 Oct 2022 01:34:25 UTC+05:30
 # Source:          https://raw.githubusercontent.com/dufferdonkey/hosts/master/data/hosts.txt
 
 #-----------------------List---------------------#
+
 
 # 2
 
@@ -17,10 +18,12 @@
 0.0.0.0 s0.2mdn.net
 0.0.0.0 2mdn.net
 
+
 # 3
 
 # [3lift.com]
 0.0.0.0 3lift.com
+
 
 # A
 
@@ -88,6 +91,7 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 ws-in.amazon-adsystem.com
 
 # [amazon.com]
 0.0.0.0 aan.amazon.com
@@ -99,6 +103,10 @@
 
 # [alexa.com]
 0.0.0.0 data.alexa.com
+
+# [alexametrics.com]
+0.0.0.0 alexametrics.com
+0.0.0.0 certify-js.alexametrics.com
 
 # [amazon.in]
 0.0.0.0 aax-eu.amazon.in
@@ -163,6 +171,8 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
+0.0.0.0 skadsdk.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
 
 # [aswpsdkus.com]
 0.0.0.0 aswpsdkus.com
@@ -181,6 +191,18 @@
 # [azure.com]
 0.0.0.0 monitor.azure.com
 
+# [adtng.com]
+0.0.0.0 adtng.com
+0.0.0.0 a.adtng.com
+
+# [appboy.com]
+0.0.0.0 iad.appboy.com
+
+# [adbro.me]
+0.0.0.0 adbro.me
+0.0.0.0 tag.adbro.me
+
+
 # B
 
 # [bing.com]
@@ -197,6 +219,10 @@
 
 # [betteradsystem.com]
 0.0.0.0 betteradsystem.com
+
+# [bazaarvoice.com]
+0.0.0.0 analytics-static.ugc.bazaarvoice.com
+
 
 # C
 
@@ -234,6 +260,9 @@
 # [cloudflareinsights.com]
 0.0.0.0 static.cloudflareinsights.com
 
+# [cloudfront.net]
+0.0.0.0 d2kk0o3fr7ed01.cloudfront.net
+
 # [cedexis.com]
 0.0.0.0 radar.cedexis.com
 
@@ -245,6 +274,9 @@
 
 # [clmbtech.com]
 0.0.0.0 static.clmbtech.com
+0.0.0.0 tml.clmbtech.com
+0.0.0.0 ade.clmbtech.com
+0.0.0.0 ase.clmbtech.com
 
 # [cxense.com]
 0.0.0.0 cdn.cxense.com
@@ -276,6 +308,11 @@
 # [czilladx.com]
 0.0.0.0 request-global.czilladx.com
 
+# [cuelinks.com]
+0.0.0.0 cuelinks.com
+0.0.0.0 cdn0.cuelinks.com
+
+
 # D
 
 # [datadoghq.com]
@@ -299,6 +336,7 @@
 # [dictionary.com]
 0.0.0.0 track.dictionary.com
 
+
 # E
 
 # [ebay.com]
@@ -310,6 +348,11 @@
 
 # [exponea.com]
 0.0.0.0 fcg-api.exponea.com
+
+# [exoclick.com]
+0.0.0.0 exoclick.com
+0.0.0.0 ads.exoclick.com
+
 
 # F
 
@@ -327,6 +370,7 @@
 
 # [fullstory.com]
 0.0.0.0 edge.fullstory.com
+
 
 # G
 
@@ -360,6 +404,8 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 pagead.googlesyndication.com
 
 # [googletagmanager.com]
 0.0.0.0 googletagmanager.com
@@ -383,12 +429,14 @@
 # [growthrx.in]
 0.0.0.0 static.growthrx.in
 
+
 # H
 
 # [hotstar.com]
 0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 hspx.hotstar.com
 0.0.0.0 segment.hotstar.com
+0.0.0.0 service.hotstar.com
 
 # [hotjar.com]
 0.0.0.0 static.hotjar.com
@@ -407,10 +455,15 @@
 0.0.0.0 smetrics.hdfcbank.com
 0.0.0.0 tmetrics.hdfcbank.com
 
+
 # I
 
 # [indiatimes.com]
 0.0.0.0 mobileads.indiatimes.com
+
+# [inspectlet.com]
+0.0.0.0 inspectlet.com
+0.0.0.0 cdn.inspectlet.com
 
 # [inmobi.com]
 0.0.0.0 ads.inmobi.com
@@ -418,6 +471,17 @@
 0.0.0.0 glance.inmobi.com
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 analytics.glance.inmobi.com
+0.0.0.0 id.analytics.glance.inmobi.com
+0.0.0.0 in.analytics.glance.inmobi.com
+0.0.0.0 api.glance.inmobi.com
+0.0.0.0 id.api.glance.inmobi.com
+0.0.0.0 glance-internal.inmobi.com
+0.0.0.0 analytics-prod2.glance-internal.inmobi.com
+0.0.0.0 content-prod3.glance-internal.inmobi.com
+
+# [inmobicdn.net]
+0.0.0.0 glance.l.inmobicdn.net
 
 # [imgix.net ]
 0.0.0.0 moengagewebsdk.imgix.net
@@ -427,6 +491,8 @@
 
 # [izooto.com]
 0.0.0.0 cdn.izooto.com
+0.0.0.0 izooto.com
+
 
 # J
 
@@ -437,11 +503,13 @@
 0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 prd.jwpltx.com
 
+
 # K
 
 # [kampyle.com]
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 udc-neb.kampyle.com
+
 
 # L
 
@@ -462,6 +530,7 @@
 
 # [live.com]
 0.0.0.0 watson.live.com
+
 
 # M
 
@@ -513,6 +582,8 @@
 # [moengage.com]
 0.0.0.0 cdn.moengage.com
 0.0.0.0 websdk.moengage.com
+0.0.0.0 sdk-02.moengage.com
+0.0.0.0 sdk-01.moengage.com
 
 # [mxplay.com]
 0.0.0.0 evt.mxplay.com
@@ -552,6 +623,15 @@
 # [mintegral.net]
 0.0.0.0 analytics-tcp.mintegral.net
 
+# [mixpanel.com]
+0.0.0.0 decide.mixpanel.com
+0.0.0.0 api.mixpanel.com
+
+# [marketo.net]
+0.0.0.0 marketo.net
+0.0.0.0 munchkin.marketo.net
+
+
 # N
 
 # [naukri.com]
@@ -583,6 +663,7 @@
 # [nr-data.net]
 0.0.0.0 bam.nr-data.net
 
+
 # O
 
 # [olxcdn.com]
@@ -601,11 +682,22 @@
 # [outbrain.com]
 0.0.0.0 widgets.outbrain.com
 
+# [outbrainimg.com]
+0.0.0.0 log.outbrainimg.com
+0.0.0.0 odb.outbrain.com
+0.0.0.0 tcheck.outbrainimg.com
+0.0.0.0 amplify.outbrain.com
+0.0.0.0 widget-pixels.outbrain.com
+
 # [online-metrix.net]
 0.0.0.0 aa.online-metrix.net
 
 # [openx.net]
 0.0.0.0 us-u.openx.net
+
+# [onesignal.com]
+0.0.0.0 cdn.onesignal.com
+
 
 # P
 
@@ -628,6 +720,8 @@
 
 # [popads.net]
 0.0.0.0 c1.popads.net
+0.0.0.0 popads.net
+0.0.0.0 c2.popads.net
 
 # [pubmatic.com]
 0.0.0.0 ow.pubmatic.com
@@ -642,6 +736,11 @@
 # [pandaglen.pw]
 0.0.0.0 api.pandaglen.pw
 
+# [paypal.com]
+0.0.0.0 stats.paypal.com
+0.0.0.0 b.stats.paypal.com
+
+
 # Q
 
 # [quantummetric.com]
@@ -654,6 +753,7 @@
 # [quantserve.com]
 0.0.0.0 secure.quantserve.com
 0.0.0.0 pixel.quantserve.com
+
 
 # R
 
@@ -676,6 +776,13 @@
 
 # [rlcdn.com]
 0.0.0.0 id.rlcdn.com
+
+# [realsrv.com]
+0.0.0.0 realsrv.com
+0.0.0.0 a.realsrv.com
+0.0.0.0 syndication.realsrv.com
+0.0.0.0 ads.realsrv.com
+
 
 # S
 
@@ -752,6 +859,11 @@
 # [smartadserver.com]
 0.0.0.0 smartadserver.com
 
+# [supercounters.com]
+0.0.0.0 supercounters.com
+0.0.0.0 widget.supercounters.com
+
+
 # T
 
 # [taboola.com]
@@ -764,6 +876,7 @@
 # [tapjoy.com]
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 rpc.tapjoy.com
+0.0.0.0 tapjoy.com
 
 # [tapjoyads.com]
 0.0.0.0 ws.tapjoyads.com
@@ -803,6 +916,16 @@
 # [tercept.com]
 0.0.0.0 b-s.tercept.com
 
+# [twinrdack.com]
+0.0.0.0 twinrdack.com
+0.0.0.0 cdn.twinrdack.com
+
+# [tsyndicate.com]
+0.0.0.0 tsyndicate.com
+0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 cdn.tsyndicate.com
+
+
 # U
 
 # [unity3d.com]
@@ -814,6 +937,16 @@
 # [unblockia.com]
 0.0.0.0 cdn.unblockia.com
 
+# [unibots.in]
+0.0.0.0 unibots.in
+0.0.0.0 cdn.unibots.in
+0.0.0.0 api.unibots.in
+
+# [useinsider.com]
+0.0.0.0 useinsider.com
+0.0.0.0 lenovoindia.api.useinsider.com
+
+
 # V
 # [vidible.tv]
 0.0.0.0 cdn.vidible.tv
@@ -823,6 +956,7 @@
 
 # [vuukle.com]
 0.0.0.0 publish.vuukle.com
+
 
 # W
 
@@ -857,6 +991,7 @@
 0.0.0.0 feedback.windows.com
 0.0.0.0 cache.datamart.windows.com
 
+
 # X
 
 # [xiaomi.com]
@@ -874,6 +1009,7 @@
 
 # [xiaomi.net]
 0.0.0.0 statusapi.micloud.xiaomi.net
+
 
 # Y
 
@@ -907,7 +1043,18 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 s.youtube.com
 
+# [yadro.ru]
+0.0.0.0 yadro.ru
+0.0.0.0 counter.yadro.ru
+
+
 # Z
+
+# [zeustechnology.com]
+0.0.0.0 zeustechnology.com
+0.0.0.0 audience.zeustechnology.com
+0.0.0.0 insights.zeustechnology.com
+0.0.0.0 metrics.zeustechnology.com
 
 # [zqtk.net]
 0.0.0.0 segment-data.zqtk.net
