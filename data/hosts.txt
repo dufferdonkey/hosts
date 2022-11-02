@@ -1,11 +1,11 @@
 # Title: dufferdonkey's filters
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, cookies, tracking & analytics.
-# Last modified:   Wed, 25 Oct 2022 03:47:22 UTC+05:30
+# Last modified:   Wed, 03 Nov 2022 00:57:27 UTC+05:30
 # Entries:         505
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
-# Version:         2022.10.25.1
+# Version:         2022.11.03.1
 # Start date:      Sat, 01 Oct 2022 01:34:25 UTC+05:30
 # Source:          https://raw.githubusercontent.com/dufferdonkey/hosts/master/data/hosts.txt
 
@@ -23,6 +23,9 @@
 
 # [3lift.com]
 0.0.0.0 3lift.com
+
+# [3mindia.in]
+0.0.0.0 engage.3mindia.in
 
 
 # A
@@ -124,6 +127,10 @@
 0.0.0.0 amplitude.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api2.amplitude.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 info.amplitude.com
+0.0.0.0 regionconfig.amplitude.com
+0.0.0.0 static.amplitude.com
 
 # [app-measurement.com]
 0.0.0.0 app-measurement.com
@@ -187,6 +194,7 @@
 
 # [advertising.com]
 0.0.0.0 adserver.adtech.advertising.com
+0.0.0.0 pixel.advertising.com
 
 # [azure.com]
 0.0.0.0 monitor.azure.com
@@ -201,6 +209,38 @@
 # [adbro.me]
 0.0.0.0 adbro.me
 0.0.0.0 tag.adbro.me
+
+# [adjust.world]
+0.0.0.0 adjust.world
+0.0.0.0 app.adjust.world
+0.0.0.0 view.adjust.world
+
+# [adjust.net.in]
+0.0.0.0 app.adjust.net.in
+
+# [adsafeprotected.com]
+0.0.0.0 adsafeprotected.com
+
+# [adsfast.com]
+0.0.0.0 adsfast.com
+0.0.0.0 track.adsfast.com
+
+# [adsessionserv.com]
+0.0.0.0 adsessionserv.com
+
+# [adsninja.ca]
+
+0.0.0.0 adsninja.ca
+
+# [adworkmedia.com]
+0.0.0.0 adworkmedia.com
+
+# [appsflyersdk.com]
+0.0.0.0 cdn-settings.appsflyersdk.com
+
+#[admob.com]
+0.0.0.0 admob.com
+0.0.0.0 apps.admob.com
 
 
 # B
@@ -222,6 +262,27 @@
 
 # [bazaarvoice.com]
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+
+# [bullionyield.com]
+0.0.0.0 ads.bullionyield.com
+
+# [buysellads.net]
+0.0.0.0 buysellads.net
+0.0.0.0 cdn4.buysellads.net
+
+# [buysellads.com]
+0.0.0.0 buysellads.com
+0.0.0.0 srv.buysellads.com
+
+# [bigbasket.com]
+0.0.0.0 prod-collector.bigbasket.com
+
+# [bidswitch.net]
+0.0.0.0 bidswitch.net
+0.0.0.0 grid.bidswitch.net
+
+# [braze.com]
+0.0.0.0 sdk.iad-03.braze.com
 
 
 # C
@@ -256,12 +317,14 @@
 
 # [cloudflare.com]
 0.0.0.0 a.nel.cloudflare.com
+0.0.0.0 csp-reporting.cloudflare.com
 
 # [cloudflareinsights.com]
 0.0.0.0 static.cloudflareinsights.com
 
 # [cloudfront.net]
 0.0.0.0 d2kk0o3fr7ed01.cloudfront.net
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 
 # [cedexis.com]
 0.0.0.0 radar.cedexis.com
@@ -292,12 +355,14 @@
 # [criteo.com]
 0.0.0.0 bidder.criteo.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 sslwidget.criteo.com
 
 # [contextweb.com]
 0.0.0.0 bh.contextweb.com
 
 # [criteo.net]
 0.0.0.0 static.criteo.net
+0.0.0.0 csm.va.us.criteo.net
 
 # [coinzillatag.com]
 0.0.0.0 coinzillatag.com
@@ -312,6 +377,19 @@
 0.0.0.0 cuelinks.com
 0.0.0.0 cdn0.cuelinks.com
 
+# [clevertap-prod.com]
+0.0.0.0 in1.clevertap-prod.com
+0.0.0.0 eu1-spiky.clevertap-prod.com
+0.0.0.0 sg1.clevertap-prod.com
+0.0.0.0 us1.clevertap-prod.com
+
+# [cartoonnetworkindia.com]
+0.0.0.0 sanalytics.cartoonnetworkindia.com
+
+# [coinzilla.io]
+0.0.0.0 coinzilla.io
+0.0.0.0 cdn.coinzilla.io
+
 
 # D
 
@@ -321,6 +399,7 @@
 # [demdex.net]
 0.0.0.0 dpm.demdex.net
 0.0.0.0 adobedc.demdex.net
+0.0.0.0 yesbank.demdex.net
 
 # [doubleclick.net]
 0.0.0.0 doubleclick.net
@@ -329,12 +408,33 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 11772474.fls.doubleclick.net
 
 # [dmvs-apac.com]
 0.0.0.0 srvr.dmvs-apac.com
 
 # [dictionary.com]
 0.0.0.0 track.dictionary.com
+
+# [datadoghq.com]
+0.0.0.0 mobile-http-intake.logs.datadoghq.com
+0.0.0.0 browser-http-intake.logs.datadoghq.com
+0.0.0.0 logs.datadoghq.com
+0.0.0.0 rum-http-intake.logs.datadoghq.com
+
+# [dnaindia.com]
+0.0.0.0 stats.dnaindia.com
+
+# [duckduckgo.com]
+0.0.0.0 improving.duckduckgo.com
+
+# [datadome.co]
+0.0.0.0 api-js.datadome.co
+
+# [doubleverify.com]
+0.0.0.0 doubleverify.com
+0.0.0.0 tpsc-sgc.doubleverify.com
 
 
 # E
@@ -378,6 +478,7 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 region1.google-analytics.com
 
 # [google.com]
 0.0.0.0 ads.google.com
@@ -385,10 +486,40 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 optimize.google.com
 0.0.0.0 www.google-analytics.l.google.com
+0.0.0.0 id.google.com
+0.0.0.0 mail-ads.google.com
+
+# [google.co.in]
+0.0.0.0 id.google.co.in
+0.0.0.0 adservice.google.co.in
 
 # [googleadservices.com]
 0.0.0.0 googleadservices.com
 0.0.0.0 partner.googleadservices.com
+
+# [google.co.jp]
+0.0.0.0 adservice.google.co.jp
+
+# [google.si]
+0.0.0.0 adservice.google.si
+
+# [google.co.za]
+0.0.0.0 adservice.google.co.za
+
+# [google.com.br]
+0.0.0.0 adservice.google.com.br
+
+# [google.com.au]
+0.0.0.0 adservice.google.com.au
+
+# [google.ca]
+0.0.0.0 adservice.google.ca
+
+# [google.ne]
+0.0.0.0 adservice.google.nl
+
+# [google.cz]
+0.0.0.0 adservice.google.cz
 
 # [googleanalytics.com]
 0.0.0.0 googleanalytics.com
@@ -428,6 +559,12 @@
 
 # [growthrx.in]
 0.0.0.0 static.growthrx.in
+
+# [gamooga.com]
+0.0.0.0 evbk.gamooga.com
+
+# [geetest.com]
+0.0.0.0 static.geetest.com
 
 
 # H
@@ -493,15 +630,24 @@
 0.0.0.0 cdn.izooto.com
 0.0.0.0 izooto.com
 
+# [instabug.com]
+0.0.0.0 instabug.com
+0.0.0.0 api.instabug.com
+
 
 # J
 
 # [jio.com]
 0.0.0.0 collect.media.jio.com
+0.0.0.0 app-06.engage.jio.com
 
 # [jwpltx.com]
 0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 prd.jwpltx.com
+
+# [imrworldwide.com]
+0.0.0.0 imrworldwide.com
+0.0.0.0 c01a087bd1c618ca.redinuid.imrworldwide.com
 
 
 # K
@@ -531,6 +677,15 @@
 # [live.com]
 0.0.0.0 watson.live.com
 
+# [l-err.biz]
+0.0.0.0 perr.l-err.biz
+
+# [lum-sdk.io]
+0.0.0.0 perr.lum-sdk.io
+
+# [loggly.com]
+0.0.0.0 logs-01.loggly.com
+
 
 # M
 
@@ -557,6 +712,7 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.rus.miui.com
+0.0.0.0 mitv.tracking.intl.miui.com
 
 # [moatads.com]
 0.0.0.0 moatads.com
@@ -609,6 +765,7 @@
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 corp.sts.microsoft.com
 
+
 # [mobileapptracking.com]
 0.0.0.0 mobileapptracking.com
 0.0.0.0 engine.mobileapptracking.com
@@ -630,6 +787,19 @@
 # [marketo.net]
 0.0.0.0 marketo.net
 0.0.0.0 munchkin.marketo.net
+
+# [meredithcorp.io]
+0.0.0.0 imagesvc.meredithcorp.io
+
+# [mdpcdn.com]
+0.0.0.0 karma.mdpcdn.com
+0.0.0.0 s2.mdpcdn.com
+
+# [mozilla.org]
+0.0.0.0 incoming.telemetry.mozilla.org
+
+# [media.net]
+0.0.0.0 cs.media.net
 
 
 # N
@@ -662,6 +832,19 @@
 
 # [nr-data.net]
 0.0.0.0 bam.nr-data.net
+
+# [nrich.ai]
+0.0.0.0 nrich.ai
+0.0.0.0 dsp.nrich.ai
+0.0.0.0 serve.nrich.ai
+0.0.0.0 tag.nrich.ai
+
+# [nike.com]
+0.0.0.0 analytics.nike.com
+0.0.0.0 smodus.nike.com
+
+# [naver.jp]
+0.0.0.0 ga2.line.naver.jp
 
 
 # O
@@ -698,6 +881,15 @@
 # [onesignal.com]
 0.0.0.0 cdn.onesignal.com
 
+# [openx.net]
+0.0.0.0 openx.net
+
+# [offerstrack.net]
+0.0.0.0 superleads.offerstrack.net
+
+# [optimizely.com]
+0.0.0.0 optimizely.com
+0.0.0.0 logx.optimizely.com
 
 # P
 
@@ -739,6 +931,23 @@
 # [paypal.com]
 0.0.0.0 stats.paypal.com
 0.0.0.0 b.stats.paypal.com
+
+# [perimeterx.net]
+0.0.0.0 px-conf.perimeterx.net
+
+# [paytm.com]
+0.0.0.0 track.paytm.com
+
+# [phonepe.com]
+0.0.0.0 ads.phonepe.com
+
+# [pub.network]
+0.0.0.0 pub.network
+0.0.0.0 a.pub.network
+
+# [pfx.io]
+0.0.0.0 pxf.io
+0.0.0.0 vivid-seats.pxf.io
 
 
 # Q
@@ -782,6 +991,9 @@
 0.0.0.0 a.realsrv.com
 0.0.0.0 syndication.realsrv.com
 0.0.0.0 ads.realsrv.com
+
+# [rudderlabs.com]
+0.0.0.0 api.rudderlabs.com
 
 
 # S
@@ -827,6 +1039,8 @@
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 tr.snapchat.com
+0.0.0.0 intg.snapchat.com
+0.0.0.0 adsapi.snapchat.com
 
 # [soundcloud.com]
 0.0.0.0 eventlogger.soundcloud.com
@@ -858,10 +1072,33 @@
 
 # [smartadserver.com]
 0.0.0.0 smartadserver.com
+0.0.0.0 rtb-csync.smartadserver.com
 
 # [supercounters.com]
 0.0.0.0 supercounters.com
 0.0.0.0 widget.supercounters.com
+
+# [semasio.net]
+0.0.0.0 semasio.net
+0.0.0.0 uipglob.semasio.net
+
+# [servedby-buysellads.com
+0.0.0.0 m.servedby-buysellads.com
+
+# [split.io]
+0.0.0.0 sdk.split.io
+
+# [smartclip.com]
+0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
+
+# [sohu.com]
+0.0.0.0 pv.sohu.com
+
+# [salecycle.com]
+0.0.0.0 salecycle.com
+0.0.0.0 s.salecycle.com
+0.0.0.0 i.salecycle.com
 
 
 # T
@@ -924,6 +1161,13 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 lcdn.tsyndicate.com
 0.0.0.0 cdn.tsyndicate.com
+
+# [trackedlink.net]
+0.0.0.0 trackedlink.net
+0.0.0.0 r1-t.trackedlink.net
+
+# [tiktok.com]
+0.0.0.0 analytics.tiktok.com
 
 
 # U
@@ -990,6 +1234,12 @@
 # [windows.com]
 0.0.0.0 feedback.windows.com
 0.0.0.0 cache.datamart.windows.com
+
+# [whampamp.com]
+0.0.0.0 whampamp.com
+
+# [wynk.in]
+0.0.0.0 stats.wynk.in
 
 
 # X
@@ -1058,3 +1308,13 @@
 
 # [zqtk.net]
 0.0.0.0 segment-data.zqtk.net
+
+# [zomoto.com]
+0.0.0.0 jumbo.zomato.com
+
+# [zopim.com]
+0.0.0.0 widget-mediator.zopim.com
+0.0.0.0 cdn.zopim.com
+
+# [zwyr157wwiu6eior.com]
+0.0.0.0 zwyr157wwiu6eior.com
