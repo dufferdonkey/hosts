@@ -2,7 +2,7 @@
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, cookies, tracking & analytics.
 # Last modified:   Wed, 03 Nov 2022 00:57:27 UTC+05:30
-# Entries:         505
+# Entries:         626
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
 # Version:         2022.11.03.1
