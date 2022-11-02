@@ -1,4 +1,4 @@
-# Title: dufferdonkey's filters
+# Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, cookies, tracking & analytics.
 # Last modified:   Wed, 03 Nov 2022 00:57:27 UTC+05:30
@@ -229,7 +229,6 @@
 0.0.0.0 adsessionserv.com
 
 # [adsninja.ca]
-
 0.0.0.0 adsninja.ca
 
 # [adworkmedia.com]
