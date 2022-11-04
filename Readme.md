@@ -4,7 +4,7 @@
 
 [List](data/)
 
-[Raw](https://raw.githubusercontent.com/dufferdonkey/hosts/master/data/hosts.txt)
+[Raw](https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt)
 
 ## Usage
 
