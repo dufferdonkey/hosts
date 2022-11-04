@@ -1,6 +1,7 @@
 # The Block List 
 
-#### Description - Created list from [Link](https://github.com/dufferdonkey/hosts#master-block-list)
+**Made with ❤ by [dufferdonkey](https://github.com/dufferdonkey)**
+
 [List](data/)
 
 [Raw](https://raw.githubusercontent.com/dufferdonkey/hosts/master/data/hosts.txt)
