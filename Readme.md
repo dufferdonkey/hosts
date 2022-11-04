@@ -2,7 +2,7 @@
 
 **Made with ❤ by [dufferdonkey](https://github.com/dufferdonkey)**
 
-[List](data/)
+[List](Data/)
 
 [Raw](https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt)
 
