@@ -482,7 +482,6 @@
 0.0.0.0 inneractive-assets.s3-eu-west-1.amazonaws.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 insights.samsung.com
-0.0.0.0 insights.samsung.com
 0.0.0.0 insights.zeustechnology.com
 0.0.0.0 inspectlet.com
 0.0.0.0 instabug.com
