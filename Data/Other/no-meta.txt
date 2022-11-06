@@ -1,4 +1,4 @@
-# Title: no-meta(facebook) services
+# Title: no-meta services
 
 # Description:     This host file blocks all the meta services.
 # Formate:         Hosts
@@ -9,9 +9,9 @@
 # To add in to your system
 # Go to Local Disk(C)/Windows/System32/driver/etc
 # You should see hosts file
-# add following lines to block meta(facebook).
+# add following lines to block meta.
 
-
+# Facebook
 0.0.0.0 facebook.com
 0.0.0.0 facebook.net
 0.0.0.0 fbcdn.com
@@ -28,3 +28,7 @@
 0.0.0.0 messenger.com
 0.0.0.0 fb.watch
 0.0.0.0 fbwat.ch
+
+# Instagram
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
