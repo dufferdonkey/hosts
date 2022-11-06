@@ -1,0 +1,19 @@
+# Title: no-discord
+
+# Description:     This host file blocks discord.
+# Formate:         Hosts
+
+# To use this filter on windows 
+# First you have to flush the DNS cache.
+# Go to the command prompt and type ipconfig /flushdns
+# To add in to your system
+# Go to Local Disk(C)/Windows/System32/driver/etc
+# You should see hosts file
+# add following lines to block discord.
+
+
+0.0.0.0 discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.media
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.net
