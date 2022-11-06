@@ -32,3 +32,7 @@
 # Instagram
 0.0.0.0 instagram.com
 0.0.0.0 cdninstagram.com
+
+# Whatsapp
+0.0.0.0 whatsapp.net
+0.0.0.0 whatsapp.com
