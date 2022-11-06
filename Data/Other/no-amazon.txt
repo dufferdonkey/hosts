@@ -1,6 +1,6 @@
 # Title: no-amazon services
 
-# Description:     This host file blocks all the amazon services.
+# Description:     This host file blocks amazon.
 # Formate:         Hosts
 
 # To use this filter on windows 
