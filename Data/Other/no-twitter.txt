@@ -1,0 +1,19 @@
+# Title: no-twitter
+
+# Description:     This host file blocks twitter.
+# Formate:         Hosts
+
+# To use this filter on windows 
+# First you have to flush the DNS cache.
+# Go to the command prompt and type ipconfig /flushdns
+# To add in to your system
+# Go to Local Disk(C)/Windows/System32/driver/etc
+# You should see hosts file
+# add following lines to block twitter.
+
+
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 t.co
+0.0.0.0 mobile.twitter.com
+0.0.0.0 www.mobile.twitter.com
