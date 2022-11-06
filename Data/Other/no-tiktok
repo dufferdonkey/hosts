@@ -1,0 +1,21 @@
+# Title: no-tiktok
+
+# Description:     This host file blocks tiktok.
+# Formate:         Hosts
+
+# To use this filter on windows 
+# First you have to flush the DNS cache.
+# Go to the command prompt and type ipconfig /flushdns
+# To add in to your system
+# Go to Local Disk(C)/Windows/System32/driver/etc
+# You should see hosts file
+# add following lines to block tiktok.
+
+
+
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 byteoversea.com
+0.0.0.0 douyin.com
+0.0.0.0 douyincdn.com
