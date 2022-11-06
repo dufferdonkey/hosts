@@ -1,0 +1,25 @@
+# Title: no-amazon services
+
+# Description:     This host file blocks all the amazon services.
+# Formate:         Hosts
+
+# To use this filter on windows 
+# First you have to flush the DNS cache.
+# Go to the command prompt and type ipconfig /flushdns
+# To add in to your system
+# Go to Local Disk(C)/Windows/System32/driver/etc
+# You should see hosts file
+# add following lines to block amazon.
+
+
+0.0.0.0 amazon.com
+0.0.0.0 amazon.in
+0.0.0.0 amazonpay.in
+0.0.0.0 amazonpay.com
+0.0.0.0 primevideo.com
+0.0.0.0 images-amazon.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 a2z.com
+0.0.0.0 amazontrust.com
+0.0.0.0 ssl-images-amazon.com
+0.0.0.0 media-amazon.com
