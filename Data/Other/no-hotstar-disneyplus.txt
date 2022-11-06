@@ -1,0 +1,22 @@
+# Title: no-hotstar-disneyplus
+
+# Description:     This host file blocks hotstar-disneyplus.
+# Formate:         Hosts
+
+# To use this filter on windows 
+# First you have to flush the DNS cache.
+# Go to the command prompt and type ipconfig /flushdns
+# To add in to your system
+# Go to Local Disk(C)/Windows/System32/driver/etc
+# You should see hosts file
+# add following lines to block hotstar-disneyplus.
+
+
+0.0.0.0 hotstar.com
+0.0.0.0 disneyplus.com
+0.0.0.0 starplus.com
+0.0.0.0 disneynow.com
+0.0.0.0 media.dssott.com
+0.0.0.0 disney.playback.edge.bamgrid.com
+0.0.0.0 disney-plus.net
+0.0.0.0 star.playback.edge.bamgrid.com
