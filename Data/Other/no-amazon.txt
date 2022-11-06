@@ -1,4 +1,4 @@
-# Title: no-amazon services
+# Title: no-amazon
 
 # Description:     This host file blocks amazon.
 # Formate:         Hosts
