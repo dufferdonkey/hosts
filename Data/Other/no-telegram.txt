@@ -1,0 +1,22 @@
+# Title: no-telegram
+
+# Description:     This host file blocks telegram.
+# Formate:         Hosts
+
+# To use this filter on windows 
+# First you have to flush the DNS cache.
+# Go to the command prompt and type ipconfig /flushdns
+# To add in to your system
+# Go to Local Disk(C)/Windows/System32/driver/etc
+# You should see hosts file
+# add following lines to block telegram.
+
+
+0.0.0.0 t.me
+0.0.0.0 telegram.com
+0.0.0.0 telegram.org
+0.0.0.0 telegram.me
+0.0.0.0 telegram.space
+0.0.0.0 telegram.dev
+0.0.0.0 telegram.supply
+0.0.0.0 web.telegram.org
