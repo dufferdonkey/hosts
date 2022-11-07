@@ -1,0 +1,90 @@
+# Title: no-google services
+
+# Description:     This host file blocks all the google services.
+# Formate:         Hosts
+
+# To use this filter on windows 
+# First you have to flush the DNS cache.
+# Go to the command prompt and type ipconfig /flushdns
+# To add in to your system
+# Go to Local Disk(C)/Windows/System32/driver/etc
+# You should see hosts file
+# add following lines to block google.
+
+
+# Search Engine
+0.0.0.0 google.com
+0.0.0.0 www.google.com
+0.0.0.0 google.co.in
+0.0.0.0 www.google.co.in
+
+# API
+0.0.0.0 apis.google.com
+0.0.0.0 googleapis.com
+
+# Youtube
+0.0.0.0 youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtu.be
+0.0.0.0 youtubekids.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtube.de
+0.0.0.0 youtubefanfest.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtubego.com
+0.0.0.0 yt.be
+
+# Gmail
+0.0.0.0 gmail.com
+0.0.0.0 mail.google.com
+0.0.0.0 www.gmail.com
+0.0.0.0 www.mail.google.com
+
+# Other Google Services
+0.0.0.0 site.google.com
+0.0.0.0 maps.google.com
+0.0.0.0 docs.google.com
+0.0.0.0 group.google.com
+0.0.0.0 googleusercontent.com
+0.0.0.0 chrome.google.com
+0.0.0.0 doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 www.doubleclick.com
+0.0.0.0 2mdn.net
+0.0.0.0 googlecode.com
+0.0.0.0 clients.google.com
+0.0.0.0 gstatic.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googletagservices.com
+0.0.0.0 googleanalytics.com
+0.0.0.0 goog.le
+0.0.0.0 drive.google.com
+0.0.0.0 news.google.com
+0.0.0.0 keep.google.com
+0.0.0.0 photos.google.com
+0.0.0.0 translate.google.com
+0.0.0.0 images.google.com
+0.0.0.0 ggpht.com
+0.0.0.0 google-analytics.com
+0.0.0.0 blog.google
+0.0.0.0 g.co
+0.0.0.0 blogger.com
+0.0.0.0 thinkwithgoogle.com
+0.0.0.0 about.google
+0.0.0.0 blog.youtube
+0.0.0.0 safety.google
+0.0.0.0 wellbeing.google
+0.0.0.0 chromium.org
+0.0.0.0 android.com
+0.0.0.0 ampproject.org
+0.0.0.0 recaptcha.net
+0.0.0.0 googledrive.com
+0.0.0.0 domains.google
+0.0.0.0 design.google
+0.0.0.0 ai.google
+0.0.0.0 research.google
+0.0.0.0 googleoptimize.com
+0.0.0.0 doubleclickbygoogle.com
+0.0.0.0 opensource.google
+0.0.0.0 flutter.io
