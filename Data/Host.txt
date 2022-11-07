@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   Wed, 05 Nov 2022 02:00:49 UTC+05:30
+# Last modified:   Wed, 07 Nov 2022 13:58:44 UTC+05:30
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
-# Version:         2022.11.03.1
+# Version:         2022.11.07.1
 # Start date:      Sat, 01 Oct 2022 01:34:25 UTC+05:30
 # Source:          https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -811,3 +811,58 @@
 0.0.0.0 zta.containers.piwik.pro
 0.0.0.0 zta.piwik.pro
 0.0.0.0 zwyr157wwiu6eior.com
+
+# [7/11/2022]
+0.0.0.0 idfc.tt.omtrdc.net
+0.0.0.0 idfc.demdex.net
+0.0.0.0 trackedlink.net
+0.0.0.0 r1-t.trackedlink.net
+0.0.0.0 collector.xhamster.com
+0.0.0.0 ht.pornhub.com
+0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 kochava.com
+0.0.0.0 audible.sc.omtrdc.net
+0.0.0.0 int.akisinn.site
+0.0.0.0 dewrain.site
+0.0.0.0 rudderstack.com
+0.0.0.0 dataplane.rudderstack.com
+0.0.0.0 int.vaicore.site
+0.0.0.0 g2afse.com
+0.0.0.0 int.dewrain.life
+0.0.0.0 sapiyo.g2afse.com
+0.0.0.0 xg4ken.com
+0.0.0.0 ad.naver.com
+0.0.0.0 jsonip.com
+0.0.0.0 pb.mobshark.net
+0.0.0.0 mobshark.net
+0.0.0.0 data.flurry.com
+0.0.0.0 flurry.com
+0.0.0.0 view.adjust.net.in
+0.0.0.0 snowplow-pixel.tradingview.com
+0.0.0.0 telemetry.tradingview.com
+0.0.0.0 jsc.adskeeper.co.uk
+0.0.0.0 static.rqmob.com
+0.0.0.0 cdn.rqmob.com
+0.0.0.0 dynamic.criteo.com
+0.0.0.0 monorail-edge.shopifysvc.com
+0.0.0.0 ma312-r.analytics.edgesuite.net
+0.0.0.0 adgebra.in
+0.0.0.0 cdn.adgebra.in
+0.0.0.0 p.midasplayer.com
+0.0.0.0 servicelayer.king.com
+0.0.0.0 bling2.midasplayer.com
+0.0.0.0 mobile-data.onetrust.io
+0.0.0.0 rayjump.com
+0.0.0.0 check.rayjump.com
+0.0.0.0 policy.rayjump.com
+0.0.0.0 lazy.rayjump.com
+0.0.0.0 inner-active.mobi
+0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 smaato.net
+0.0.0.0 hbsdk-config.log.smaato.net
+0.0.0.0 vungle.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 pubnative.net
+0.0.0.0 hbrc.pubnative.net
+0.0.0.0 track.tenjin.com
