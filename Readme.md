@@ -1,21 +1,21 @@
 # The Block List 
 
+| List  | Sources |
+| ------------- | ------------- |
+| Main | [Sources](https://github.com/dufferdonkey/hosts/edit/master/Readme.md#recommended-block-list)
+
 **Made with ❤ by [dufferdonkey](https://github.com/dufferdonkey)**
-
-[List](Data/)
-
-[Raw](https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt)
-
 ## Usage
 
 Using with [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
 
 Using with [Pi-Hole](https://pi-hole.net)
 
-## Main Block List
+## Recommended Block List
+Note - Test it & Use it
 | List  | Website |
 | ------------- | ------------- |
-| 1Hosts (Lite) | [Link](https://o0.pages.dev/) |
+| 1Hosts | [Link](https://o0.pages.dev/) |
 | AdGuard | [Link](https://github.com/AdguardTeam/AdguardFilters) |
 | Adway | [Link](https://github.com/AdAway/AdAway/wiki/HostsSources)
 | Crazy Max(Windows) | [Link](https://github.com/crazy-max/WindowsSpyBlocker/tree/master/data) |
