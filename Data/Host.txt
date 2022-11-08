@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   Wed, 07 Nov 2022 13:58:44 UTC+05:30
+# Last modified:   Wed, 08 Nov 2022 00:34:11 UTC+05:30
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
-# Version:         2022.11.07.1
+# Version:         2022.11.08.1
 # Start date:      Sat, 01 Oct 2022 01:34:25 UTC+05:30
 # Source:          https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -292,6 +292,7 @@
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 cdn.trafficstars.com
 0.0.0.0 cdn.twinrdack.com
 0.0.0.0 cdn.unblockia.com
 0.0.0.0 cdn.unibots.in
@@ -319,6 +320,7 @@
 0.0.0.0 coinzilla.io
 0.0.0.0 coinzillatag.com
 0.0.0.0 collect.media.jio.com
+0.0.0.0 collector.xhamster18.desi
 0.0.0.0 conduit.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.samsungads.com
@@ -426,6 +428,7 @@
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glance.l.inmobicdn.net
 0.0.0.0 go.automatad.com
+0.0.0.0 go.xxxviijmp.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -628,6 +631,7 @@
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum.browser-intake-datadoghq.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s.faphouse.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s.salecycle.com
 0.0.0.0 s.youtube.com
@@ -815,7 +819,7 @@
 # [7/11/2022]
 0.0.0.0 idfc.tt.omtrdc.net
 0.0.0.0 idfc.demdex.net
-0.0.0.0 trackedlink.net
+0.0.0.0 link.net
 0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 collector.xhamster.com
 0.0.0.0 ht.pornhub.com
@@ -866,3 +870,25 @@
 0.0.0.0 pubnative.net
 0.0.0.0 hbrc.pubnative.net
 0.0.0.0 track.tenjin.com
+
+# [8/11/2022]
+0.0.0.0 probe.twitter.com
+0.0.0.0 adapace.gotrackier.com
+0.0.0.0 ip.taobao.com
+0.0.0.0 c.paypal.com
+0.0.0.0 cdn.ap.bittorrent.com
+0.0.0.0 media.adaware.com
+0.0.0.0 apps.bittorrent.com
+0.0.0.0 ads.bittorrent.com
+0.0.0.0 utclient.utorrent.com
+0.0.0.0 ad.bench.utorrent.com
+0.0.0.0 above.com
+0.0.0.0 automatad.com
+0.0.0.0 cdn.automatad.com
+0.0.0.0 cdn.tinypass.com
+0.0.0.0 experience.tinypass.com
+0.0.0.0 survey.survicate.com
+0.0.0.0 adpushup.com
+0.0.0.0 cdn.adpushup.com
+0.0.0.0 adrecover.com
+0.0.0.0 delivery.adrecover.com
