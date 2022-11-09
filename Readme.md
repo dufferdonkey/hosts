@@ -2,7 +2,7 @@
 
 | List  | Link | Sources |
 | ------------- | ------------- | ------------- |
-| Main | [TXT](https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt) | [Sources](https://github.com/dufferdonkey/hosts/edit/master/Readme.md#recommended-block-list) |
+| Main | [TXT](https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt) | [Sources](https://github.com/dufferdonkey/hosts#recommended-block-list) |
 
 **Made with ❤ by [dufferdonkey](https://github.com/dufferdonkey)**
 ## Usage
