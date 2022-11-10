@@ -1,7 +1,7 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   Wed, 11 Nov 2022 02:48:42 UTC+05:30
+# Last modified:   Wed, 11 Nov 2022 02:57:49 UTC+05:30
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
 # Version:         2022.11.10.1
@@ -951,3 +951,46 @@
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 beap.gemini.yahoo.com
+
+# [11/11/2022]
+0.0.0.0 ad2ridemedia.o18.click
+0.0.0.0 o18.click
+0.0.0.0 techniadsaffiliatenetworkpvtltd178.o18.click
+0.0.0.0 digitaladzhub.o18.click
+0.0.0.0 addstorymediapvtltd10582186.o18.click
+0.0.0.0 routesmedia.o18.clickA
+0.0.0.0 absolutedigimedia10140799.o18.click
+0.0.0.0 igknights.o18.click
+0.0.0.0 cdid.c-ctrip.com
+0.0.0.0 quantserve.com
+0.0.0.0 cms.quantserve.com
+0.0.0.0 fast.appcues.com
+0.0.0.0 geolocation.onetrust.com
+0.0.0.0 getlokalapp.sng.link add to sng.link
+0.0.0.0 gitcdn.link
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 insta-sex.com
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 p.rapolok.com
+0.0.0.0 rapolok.com
+0.0.0.0 player.stats.live-video.net
+0.0.0.0 recommender.scarabresearch.com
+0.0.0.0 scarabresearch.com
+0.0.0.0 static.klaviyo.com
+0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 static-tracking.klaviyo.com
+0.0.0.0 a.klaviyo.com
+0.0.0.0 fast.a.klaviyo.com
+0.0.0.0 everesttech.net
+0.0.0.0 cm.everesttech.net
+0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 telemetry.vg.ac.pvp.net
+0.0.0.0 truemeds.sng.linkadd to sng.link
+0.0.0.0 u.openx.net
+0.0.0.0 vihit.gotrackier.com
+0.0.0.0 blendai.gotrackier.com
+0.0.0.0 harvest.gotrackier.com
+0.0.0.0 adyogis.gotrackier.com
+0.0.0.0 www.dwin1.com
+0.0.0.0 dwin1.com
