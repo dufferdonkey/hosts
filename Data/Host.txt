@@ -1,7 +1,7 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   Wed, 11 Nov 2022 03:02:51 UTC+05:30
+# Last modified:   Wed, 11 Nov 2022 03:21:51 UTC+05:30
 # Formate:         Hosts
 # Email:           devenmodi@pm.me (For addition and correction)
 # Version:         2022.11.11.2
