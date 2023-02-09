@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   1 Dec 2022 01:40:51 IST
+# Last modified:   10 Feb 2023 01:40:22 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2022.12.1.1
+# Version:         2023.10.2.1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -59,6 +59,7 @@
 0.0.0.0 5290727.fls.doubleclick.net
 0.0.0.0 5362399.fls.doubleclick.net
 0.0.0.0 5582200.fls.doubleclick.net
+0.0.0.0 684dd32c.akstat.io
 0.0.0.0 7336.engine.mobileapptracking.com
 0.0.0.0 8168974.fls.doubleclick.net
 0.0.0.0 8188719.fls.doubleclick.net
@@ -104,6 +105,7 @@
 0.0.0.0 aax-us-east-retail-direct.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 above.com
+0.0.0.0 abroad.api.comm.intl.miui.com
 0.0.0.0 absolutedigimedia10140799.o18.click
 0.0.0.0 ad-experience.g2afse.com
 0.0.0.0 ad.a-ads.com
@@ -136,6 +138,7 @@
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adgebra.in
+0.0.0.0 adingo.jp
 0.0.0.0 adjust.world
 0.0.0.0 adlife.g2afse.com
 0.0.0.0 adlightning.com
@@ -197,7 +200,9 @@
 0.0.0.0 adswizz.com
 0.0.0.0 adtech-events.bookmyshow.com
 0.0.0.0 adtng.com
+0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 advancedhosters.com
+0.0.0.0 advanseads.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 advertising.amazon.co.uk
 0.0.0.0 advertising.amazon.com
@@ -303,6 +308,7 @@
 0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 be0c986b.api.splkmobile.com
+0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.s-onetag.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacons.gcp.gvt2.com
@@ -343,6 +349,7 @@
 0.0.0.0 c.in.webengage.com
 0.0.0.0 c.msn.com
 0.0.0.0 c.paypal.com
+0.0.0.0 c.riskified.com
 0.0.0.0 c.singular.net # [fun88.sng.link, kukufm.sng.link, dealshare.sng.link, onemg.sng.link, cashify.sng.link, truemeds.sng.link, getlokalapp.sng.link]
 0.0.0.0 c01a087bd1c618ca.redinuid.imrworldwide.com
 0.0.0.0 c1.popads.net
@@ -458,6 +465,7 @@
 0.0.0.0 ctnsnet.com
 0.0.0.0 cuelinks.com
 0.0.0.0 customer.cludo.com
+0.0.0.0 czilladx.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
@@ -558,6 +566,8 @@
 0.0.0.0 fourier.taobao.com
 0.0.0.0 foxnews.demdex.net
 0.0.0.0 fpnpmcdn.net
+0.0.0.0 fullstory.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fuse.forbes.com
 0.0.0.0 g.doubleclick.net
 0.0.0.0 g2afse.com
@@ -579,6 +589,7 @@
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glance.l.inmobicdn.net
 0.0.0.0 glassboxdigital.io
+0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 go-rilla.g2afse.com
 0.0.0.0 go.automatad.com
 0.0.0.0 go.oracle.com
@@ -643,6 +654,7 @@
 0.0.0.0 images.taboola.com
 0.0.0.0 images.viglink.com
 0.0.0.0 imagesvc.meredithcorp.io
+0.0.0.0 img.riskified.com
 0.0.0.0 img03.en25.com
 0.0.0.0 img06.en25.com
 0.0.0.0 img07.en25.com
@@ -684,6 +696,8 @@
 0.0.0.0 ip.taobao.com
 0.0.0.0 ipac.ctnsnet.com
 0.0.0.0 ipinfodb.com
+0.0.0.0 iqoption.com
+0.0.0.0 ispot.tv
 0.0.0.0 izooto.com
 0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jill.fc.yahoo.com
@@ -846,6 +860,7 @@
 0.0.0.0 perr.l-agent.me
 0.0.0.0 perr.l-err.biz
 0.0.0.0 perr.lum-sdk.io
+0.0.0.0 pi.ispot.tv
 0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 piwik.pro
@@ -865,6 +880,7 @@
 0.0.0.0 pok.mintegral.net
 0.0.0.0 policy.rayjump.com
 0.0.0.0 popads.net
+0.0.0.0 popt.in
 0.0.0.0 popup.msn.com
 0.0.0.0 posthog.com
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -879,9 +895,11 @@
 0.0.0.0 prod-events.nykaa.com
 0.0.0.0 prod.nexusrules.live.com.akadns.net
 0.0.0.0 promoted.soundcloud.com
+0.0.0.0 pt.ispot.tv
 0.0.0.0 pub.network
 0.0.0.0 publish.vuukle.com
 0.0.0.0 pubnative.net
+0.0.0.0 pubsub.googleapis.com
 0.0.0.0 purifydigital.g2afse.com
 0.0.0.0 push.connecto.io
 0.0.0.0 pushid-noneu.truecaller.com
@@ -986,6 +1004,7 @@
 0.0.0.0 snap.licdn.com
 0.0.0.0 snippet.minute.ly
 0.0.0.0 snowplow-pixel.tradingview.com
+0.0.0.0 socdm.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 sp.vtex.com
@@ -1107,6 +1126,7 @@
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 trk.clinch.co
 0.0.0.0 trk.pinterest.com
+0.0.0.0 ts.market.mi-img.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 twinrdack.com
@@ -1184,9 +1204,13 @@
 0.0.0.0 www91.intel.com
 0.0.0.0 x.faphouse.com
 0.0.0.0 xg4ken.com
+0.0.0.0 xtrapath1.izatcloud.net
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 yadro.ru
 0.0.0.0 yellowpagescomllc.demdex.net
 0.0.0.0 yesbank.demdex.net
+0.0.0.0 yieldoptimizer.com
 0.0.0.0 z.faphouse.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zemantac.com
