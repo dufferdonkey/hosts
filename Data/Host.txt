@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   22 Apr 2023 3:46:24 IST
+# Last modified:   1 June 2023 00:56 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2023.22.4.1
+# Version:         2023.01.6.1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -174,6 +174,7 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.bittorrent.com
+0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.bullionyield.com
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.exoclick.com
@@ -248,6 +249,7 @@
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplitude.com
+0.0.0.0 amprtc.media.net
 0.0.0.0 amtrakdigital.sc.omtrdc.net
 0.0.0.0 an.facebook.com
 0.0.0.0 analytics-prod2.glance-internal.inmobi.com
@@ -274,8 +276,10 @@
 0.0.0.0 andbeyond.media
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 android.unid.go.com
+0.0.0.0 androidads4-6.adcolony.com
 0.0.0.0 anzu.io
 0.0.0.0 aorta.clickagy.com
+0.0.0.0 aos-creative.prf.hn
 0.0.0.0 ap.lijit.com
 0.0.0.0 apcinfo.motorolasolutions.com
 0.0.0.0 api-2-0.spot.im
@@ -292,6 +296,7 @@
 0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.instabug.com
+0.0.0.0 api.iterable.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.pandaglen.pw
 0.0.0.0 api.parsely.com
@@ -320,11 +325,13 @@
 0.0.0.0 appitate.g2afse.com
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
+0.0.0.0 appnext.com
 0.0.0.0 apps.admob.com
 0.0.0.0 apps.bittorrent.com
 0.0.0.0 appsflyer.com
 0.0.0.0 apv-launcher.minute.ly
 0.0.0.0 ar1n.xyz
+0.0.0.0 artfut.com
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 asia-analyzer-appstore.vivoglobal.com
@@ -346,6 +353,7 @@
 0.0.0.0 aws.demdex.net
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 axisbank.tt.omtrdc.net
+0.0.0.0 axponent.g2afse.com
 0.0.0.0 b-aws.aol.com
 0.0.0.0 b-code.liadm.com
 0.0.0.0 b-s.tercept.com
@@ -362,6 +370,7 @@
 0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 be0c986b.api.splkmobile.com
+0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.s-onetag.com
 0.0.0.0 beacon.shazam.com
@@ -384,9 +393,11 @@
 0.0.0.0 bkrtx.com
 0.0.0.0 blendai.gotrackier.com
 0.0.0.0 bling2.midasplayer.com
+0.0.0.0 block.scroll.com
 0.0.0.0 bluekai.com
 0.0.0.0 bmcdn4.com
 0.0.0.0 bmwmini.demdex.net
+0.0.0.0 bodis.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 branch.io
@@ -400,6 +411,7 @@
 0.0.0.0 buy-ap.piano.io
 0.0.0.0 buysellads.com
 0.0.0.0 buysellads.net
+0.0.0.0 c-ctrip.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.bing.com
 0.0.0.0 c.faphouse.com
@@ -489,6 +501,7 @@
 0.0.0.0 check.rayjump.com
 0.0.0.0 childlikeform.com
 0.0.0.0 choice.microsoft.com
+0.0.0.0 choices.trustarc.com
 0.0.0.0 cisco.demdex.net
 0.0.0.0 ciscowebex.demdex.net
 0.0.0.0 citi.demdex.net
@@ -502,6 +515,7 @@
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cnt.trvdp.com
 0.0.0.0 code.piano.io
@@ -514,16 +528,20 @@
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 collector.fiverr.com
+0.0.0.0 collector.github.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster18.desi
 0.0.0.0 colossusssp.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 conduit.com
 0.0.0.0 confiant-integrations.net
+0.0.0.0 config.emb-api.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.parsely.com
 0.0.0.0 config.samsungads.com
+0.0.0.0 config2.mparticle.com
 0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 connect.scroll.com
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 consensu.org
 0.0.0.0 consent-api.onetrust.com
@@ -541,6 +559,7 @@
 0.0.0.0 cpm.vuukle.net
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crazypopups.com
+0.0.0.0 creative.prf.hn
 0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cs-notices.fireeye.com
@@ -554,6 +573,7 @@
 0.0.0.0 ctnsnet.com
 0.0.0.0 cuelinks.com
 0.0.0.0 customer.cludo.com
+0.0.0.0 customerevents.netflix.com
 0.0.0.0 czilladx.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d.applovin.com
@@ -565,6 +585,7 @@
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 dacdn.visualwebsiteoptimizer.com
 0.0.0.0 data.alexa.com
+0.0.0.0 data.emb-api.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.hicloud.com
 0.0.0.0 data.minute.ly
@@ -582,6 +603,7 @@
 0.0.0.0 deeplink.mobileapptracking.com
 0.0.0.0 default.exp-tas.com
 0.0.0.0 delivery.adrecover.com
+0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 deploy.mopinion.com
 0.0.0.0 desa.fkapi.net
@@ -623,6 +645,7 @@
 0.0.0.0 ebayinc.demdex.net
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.fullstory.com
+0.0.0.0 edge.uniconsent.com
 0.0.0.0 elsevierlimited.tt.omtrdc.net
 0.0.0.0 emxdgt.com
 0.0.0.0 encrypted-tbn1.gstatic.com
@@ -631,6 +654,7 @@
 0.0.0.0 ensighten.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ergadx.com
+0.0.0.0 errlogos.umeng.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 etrk.asus.com
 0.0.0.0 eu-track.inside-graph.com
@@ -646,6 +670,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.release.narrativ.com
 0.0.0.0 events.simpli.fi
+0.0.0.0 events.split.io
 0.0.0.0 everesttech.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 exactag.com
@@ -698,6 +723,7 @@
 0.0.0.0 geo.adobe.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.yahoo.com
+0.0.0.0 geo.ziffdavis.com
 0.0.0.0 geoiplookup.wikimedia.org
 0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.forbes.com
@@ -710,6 +736,7 @@
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glance.l.inmobicdn.net
 0.0.0.0 glassboxdigital.io
+0.0.0.0 global.appnext.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 go-rilla.g2afse.com
@@ -766,6 +793,7 @@
 0.0.0.0 ibm.demdex.net
 0.0.0.0 ic3.events.data.microsoft.com
 0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ichnaea.netflix.com
 0.0.0.0 iciciprulife.tt.omtrdc.net
 0.0.0.0 id.analytics.glance.inmobi.com
 0.0.0.0 id.api.glance.inmobi.com
@@ -774,10 +802,13 @@
 0.0.0.0 id.google.com.tr
 0.0.0.0 id.rlcdn.com
 0.0.0.0 id5-sync.com
+0.0.0.0 identity.mparticle.com
 0.0.0.0 idfc.demdex.net
 0.0.0.0 idfc.tt.omtrdc.net
 0.0.0.0 idfcnetbanking.sc.omtrdc.net
 0.0.0.0 igknights.o18.click
+0.0.0.0 imadworks.rediff.com
+0.0.0.0 images.emb-api.com
 0.0.0.0 images.taboola.com
 0.0.0.0 images.viglink.com
 0.0.0.0 imagesvc.meredithcorp.io
@@ -800,6 +831,7 @@
 0.0.0.0 inapps.appflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ind.v2.we-stats.com
 0.0.0.0 indexww.com
 0.0.0.0 india.activity.browser.intl.miui.com
 0.0.0.0 indigoaviation.sc.omtrdc.netAAAA
@@ -833,6 +865,7 @@
 0.0.0.0 ipinfodb.com
 0.0.0.0 iqoption.com
 0.0.0.0 ispot.tv
+0.0.0.0 iterable.com
 0.0.0.0 izooto.com
 0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jill.fc.yahoo.com
@@ -875,6 +908,7 @@
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 levis.demdex.net
 0.0.0.0 liadm.com
+0.0.0.0 liftoff.io
 0.0.0.0 lightning.cnn.com
 0.0.0.0 link.net
 0.0.0.0 links.nbcnews.com
@@ -973,6 +1007,7 @@
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 mopinion.com
 0.0.0.0 mparticle.com
+0.0.0.0 mparticle.map.fastly.net
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms4.applovin.com
@@ -1049,6 +1084,7 @@
 0.0.0.0 personalization.centech.glulive.com
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 pi.ispot.tv
+0.0.0.0 pi.pardot.com
 0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 piwik.pro
@@ -1085,6 +1121,7 @@
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prebid.media.net
+0.0.0.0 preferences.trustarc.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privatestats.whatsapp.net
@@ -1154,6 +1191,7 @@
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum.browser-intake-datadoghq.com
 0.0.0.0 rum.condenastdigital.com
+0.0.0.0 rustytableclearance.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s.amazon-adsystem.com
@@ -1187,6 +1225,7 @@
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-events.inner-active.mobi
 0.0.0.0 sdk.adtiming.com
+0.0.0.0 sdk.conscent.in
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 sdk.split.io
@@ -1280,6 +1319,7 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 static.rqmob.com
 0.0.0.0 static.scroll.com
+0.0.0.0 static.ziffdavis.com
 0.0.0.0 stats.adobe.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.avg.com
@@ -1292,6 +1332,7 @@
 0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.wynk.in
+0.0.0.0 statsig.com
 0.0.0.0 statusapi.micloud.xiaomi.net
 0.0.0.0 stickyadstv.com
 0.0.0.0 stocks-analytics-events.apple.com
@@ -1318,6 +1359,7 @@
 0.0.0.0 t.indeed.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.adbro.me
+0.0.0.0 tag.demandbase.com
 0.0.0.0 tag.nrich.ai
 0.0.0.0 tag.simpli.fi
 0.0.0.0 tagan.adlightning.com
@@ -1334,6 +1376,7 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 target.microsoft.com
 0.0.0.0 tarsan.g2afse.com
+0.0.0.0 tarsan.media-412.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tealiumiq.com
@@ -1395,6 +1438,7 @@
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 trackjs.com
 0.0.0.0 traxex.gannettdigital.com
@@ -1432,6 +1476,7 @@
 0.0.0.0 unagi.amazon.com.au
 0.0.0.0 underarmourinc.demdex.net
 0.0.0.0 unibots.in
+0.0.0.0 uniconsent.com
 0.0.0.0 unid.go.com
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 unityads.unity3d.com
@@ -1467,6 +1512,8 @@
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com.akadns.net
+0.0.0.0 vulcan.branch.io
+0.0.0.0 vulcan2.branch.io
 0.0.0.0 vungle.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 w3-reporting.reddit.com 
@@ -1474,6 +1521,7 @@
 0.0.0.0 wa.mail.com
 0.0.0.0 watson.live.com
 0.0.0.0 wd.adcolony.com
+0.0.0.0 we-stats.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 web-sdk.urbanairship.com
@@ -1528,6 +1576,7 @@
 0.0.0.0 zettamobi.g2afse.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeustechnology.com
+0.0.0.0 ziffdavis.com
 0.0.0.0 zta.containers.piwik.pro
 0.0.0.0 zta.piwik.pro
 0.0.0.0 zwyr157wwiu6eior.com
