@@ -13,9 +13,27 @@
 
 
 
-0.0.0.0 tiktok.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokv.com
+0.0.0.0 amemv.com
+0.0.0.0 bdurl.com
+0.0.0.0 bytecdn.cn
+0.0.0.0 bytedance.map.fastly.net
+0.0.0.0 bytedapm.com
+0.0.0.0 byteimg.com
 0.0.0.0 byteoversea.com
 0.0.0.0 douyin.com
 0.0.0.0 douyincdn.com
+0.0.0.0 douyinliving.com
+0.0.0.0 douyinpic.com
+0.0.0.0 douyinstatic.com
+0.0.0.0 douyinvod.com
+0.0.0.0 huoshan.com
+0.0.0.0 huoshanstatic.com
+0.0.0.0 huoshanzhibo.com
+0.0.0.0 muscdn.com
+0.0.0.0 musical.ly
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 pstatp.com
+0.0.0.0 snssdk.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
