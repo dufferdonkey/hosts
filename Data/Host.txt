@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   15 June 2023 21:14 IST
+# Last modified:   5 October 2023 22:03 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2023.15.6.1
+# Version:         2023.10.5.1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -120,6 +120,7 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acsbapp.com
 0.0.0.0 ad-experience.g2afse.com
+0.0.0.0 ad-m.asia
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.ae.doubleclick.net
 0.0.0.0 ad.bench.utorrent.com
@@ -155,6 +156,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adgebra.in
+0.0.0.0 adidasgroup-app.quantummetric.com
 0.0.0.0 adingo.jp
 0.0.0.0 adinplay.com
 0.0.0.0 adjust.com
@@ -221,6 +223,7 @@
 0.0.0.0 adservice.google.si
 0.0.0.0 adsessionserv.com
 0.0.0.0 adsfast.com
+0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adsmoloco.com
 0.0.0.0 adsninja.ca
@@ -351,6 +354,7 @@
 0.0.0.0 asia-ex-adlog.vivoglobal.com
 0.0.0.0 asia-onrt-stsdk.vivoglobal.com
 0.0.0.0 asia.creativecdn.com
+0.0.0.0 askdomainad.com
 0.0.0.0 assemblyexchange.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 aswpsdkus.com
@@ -394,6 +398,7 @@
 0.0.0.0 bestbuycanada.demdex.net
 0.0.0.0 bestwesterninternational.d1.sc.omtrdc.net
 0.0.0.0 betteradsystem.com
+0.0.0.0 beyla.site
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bidbarrel.cbsnews.com
@@ -421,6 +426,7 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 btloader.com
 0.0.0.0 btlr.sharethrough.com
+0.0.0.0 bugfender.com
 0.0.0.0 buy-ap.piano.io
 0.0.0.0 buysellads.com
 0.0.0.0 buysellads.net
@@ -434,6 +440,7 @@
 0.0.0.0 c.paypal.com
 0.0.0.0 c.riskified.com
 0.0.0.0 c.singular.net # [fun88.sng.link, kukufm.sng.link, dealshare.sng.link, onemg.sng.link, cashify.sng.link, truemeds.sng.link, getlokalapp.sng.link]
+0.0.0.0 c.statcounter.com
 0.0.0.0 c01a087bd1c618ca.redinuid.imrworldwide.com
 0.0.0.0 c1.popads.net
 0.0.0.0 c2.popads.net
@@ -481,6 +488,7 @@
 0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.permutive.app
+0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.requestmetrics.com
 0.0.0.0 cdn.rmtag.com
 0.0.0.0 cdn.rqmob.com
@@ -525,6 +533,7 @@
 0.0.0.0 clarity.ms
 0.0.0.0 click.gowadogo.com
 0.0.0.0 click.oneplus.com
+0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clientlog.portal.office.com
 0.0.0.0 clients.fitanalytics.com
 0.0.0.0 cloudfront-labs.amazonaws.com
@@ -534,6 +543,7 @@
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 cms.quantserve.com
+0.0.0.0 cnnx.link
 0.0.0.0 cnt.trvdp.com
 0.0.0.0 code.piano.io
 0.0.0.0 coinzilla.io
@@ -574,6 +584,7 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 countess.twitch.tv
 0.0.0.0 cpm.vuukle.net
+0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crazypopups.com
 0.0.0.0 creative.prf.hn
@@ -664,6 +675,7 @@
 0.0.0.0 e7876.dscg.akamaiedge.net
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebayinc.demdex.net
+0.0.0.0 ebaypay-app.quantummetric.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.fullstory.com
 0.0.0.0 edge.uniconsent.com
@@ -721,6 +733,7 @@
 0.0.0.0 fls-eu.amazon.in
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 flurry.com
+0.0.0.0 footprintdns.com
 0.0.0.0 ford.demdex.net
 0.0.0.0 forkcdn.com
 0.0.0.0 forms-na1.hsforms.com
@@ -802,6 +815,7 @@
 0.0.0.0 hk-vid-events.taboola.com
 0.0.0.0 hlserve.com
 0.0.0.0 hm.baidu.com
+0.0.0.0 homedepot-app.quantummetric.com
 0.0.0.0 honda.demdex.net
 0.0.0.0 honeywellinternationalinc.demdex.net
 0.0.0.0 housingdevelopment.tt.omtrdc.net
@@ -815,6 +829,7 @@
 0.0.0.0 i.faphouse.com
 0.0.0.0 i.salecycle.com
 0.0.0.0 i.singular.net
+0.0.0.0 i.w55c.net
 0.0.0.0 iad.appboy.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ib.adnxs.com
@@ -894,6 +909,7 @@
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 ip.taobao.com
 0.0.0.0 ipac.ctnsnet.com
+0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 ipinfodb.com
 0.0.0.0 iqoption.com
 0.0.0.0 ispot.tv
@@ -934,11 +950,16 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 lazy.rayjump.com
 0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 leadsrx.com
 0.0.0.0 leanmobiapi.offerstrack.net
 0.0.0.0 leanplum.com
 0.0.0.0 lemnisk.co
 0.0.0.0 lenovo.demdex.net
+0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 lenovoindia.api.useinsider.com
+0.0.0.0 lenovopartnerhub-app.quantummetric.com
+0.0.0.0 lenovosupport-app.quantummetric.com
+0.0.0.0 lenovotech-app.quantummetric.com
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 levis.demdex.net
 0.0.0.0 liadm.com
@@ -998,6 +1019,7 @@
 0.0.0.0 mdp-appconf-us.heytapdl.com
 0.0.0.0 measure.office.net
 0.0.0.0 media.adaware.com
+0.0.0.0 media.flixfacts.com
 0.0.0.0 member.naiadsystems.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-production.fitanalytics.com
@@ -1076,6 +1098,7 @@
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
 0.0.0.0 nrich.ai
+0.0.0.0 nvidia.tt.omtrdc.net
 0.0.0.0 o1.ingest.sentry-prod.nykaa.com
 0.0.0.0 o18.click
 0.0.0.0 oascentral.comcast.net
@@ -1125,11 +1148,13 @@
 0.0.0.0 perr.l-err.biz
 0.0.0.0 perr.lum-sdk.io
 0.0.0.0 personalization.centech.glulive.com
+0.0.0.0 pghub.io
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 pi.ispot.tv
 0.0.0.0 pi.pardot.com
 0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 ping.chartbeat.net
+0.0.0.0 pisism.com
 0.0.0.0 piwik.pro
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 pix.pub
@@ -1146,6 +1171,7 @@
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 platform-api.sharethis.com
+0.0.0.0 platform.linkedin.com
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pm-gateway.supersonicads.com
@@ -1173,6 +1199,7 @@
 0.0.0.0 prod-events.nykaa.com
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod.nexusrules.live.com.akadns.net
+0.0.0.0 profiles.tagger.opecloud.com
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 providence.voxmedia.com
 0.0.0.0 pt.ispot.tv
@@ -1193,6 +1220,7 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
+0.0.0.0 quantummetric.com
 0.0.0.0 quotex.com
 0.0.0.0 r.faphouse.com
 0.0.0.0 r1-t.trackedlink.net
@@ -1211,6 +1239,7 @@
 0.0.0.0 relay.fiverr.com
 0.0.0.0 religarehealthinsurancecompanyltd.sc.omtrdc.net
 0.0.0.0 report.woodpeckerlog.com
+0.0.0.0 report1.biz
 0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 request-global.czilladx.com
 0.0.0.0 requestmetrics.com
@@ -1219,6 +1248,7 @@
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 revid.centech.glulive.com
 0.0.0.0 revive-adserver.net
+0.0.0.0 revopush.com
 0.0.0.0 rezync.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rmtag.com
@@ -1355,6 +1385,7 @@
 0.0.0.0 stags.bluekai.com
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 statcounter.com
 0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.amplitude.com
@@ -1392,6 +1423,7 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 stt.nvidia.com
 0.0.0.0 subwayfranchiseeadvertising.d2.sc.omtrdc.net
 0.0.0.0 summerhamster.com
 0.0.0.0 supercounters.com
@@ -1413,6 +1445,7 @@
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
+0.0.0.0 t13.io
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.adbro.me
 0.0.0.0 tag.demandbase.com
@@ -1579,6 +1612,7 @@
 0.0.0.0 w3-reporting.reddit.com 
 0.0.0.0 w88.espn.com
 0.0.0.0 wa.mail.com
+0.0.0.0 walmart-sync.quantummetric.com
 0.0.0.0 watson.live.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 we-stats.com
@@ -1592,6 +1626,7 @@
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websdk.moengage.com
 0.0.0.0 websecurity.norton.com
+0.0.0.0 webtrafficsource.com
 0.0.0.0 whampamp.com
 0.0.0.0 whatsapp-app.com
 0.0.0.0 whatsappsupport.net
@@ -1602,11 +1637,13 @@
 0.0.0.0 widget.supercounters.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 wkbrs1.tingyun.com
+0.0.0.0 wmgtr.com
 0.0.0.0 woodpeckerlog.com
 0.0.0.0 work.a-poster.info
 0.0.0.0 wren.condenastdigital.com
 0.0.0.0 ws-in.amazon-adsystem.com
 0.0.0.0 ws.sessioncam.com
+0.0.0.0 ws.sharethis.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wsdk-files.in.webengage.com
 0.0.0.0 www.clarity.ms
@@ -1615,12 +1652,14 @@
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.google-analytics.l.google.com
+0.0.0.0 www.mainadv.com
 0.0.0.0 www.rummycircle.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.vmn.net
 0.0.0.0 www91.intel.com
 0.0.0.0 wysistat.com
+0.0.0.0 x.bidswitch.net
 0.0.0.0 x.faphouse.com
 0.0.0.0 xdrig.com
 0.0.0.0 xg4ken.com
