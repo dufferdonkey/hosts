@@ -405,7 +405,6 @@
 0.0.0.0 bidbroid.g2afse.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidswitch.net
-0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bkrtx.com
