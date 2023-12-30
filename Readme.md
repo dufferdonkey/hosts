@@ -1,5 +1,7 @@
 # The Block List 
 
+![Alt text](Data/images/host-stats.png)
+
 | List  | Link | Sources |
 | ------------- | ------------- | ------------- |
 | Main | [TXT](https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt) | [Sources](https://github.com/dufferdonkey/hosts#recommended-block-list) |
