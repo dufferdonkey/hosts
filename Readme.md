@@ -4,7 +4,7 @@
 | ------------- | ------------- | ------------- |
 | Main | [TXT](https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt) | [Sources](https://github.com/dufferdonkey/hosts#recommended-block-list) |
 
-**Made with ❤ by [dufferdonkey](https://github.com/dufferdonkey)**
+**Crafted With Love & Care by [dufferdonkey](https://github.com/dufferdonkey)**
 ## Usage
 
 Using with [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
