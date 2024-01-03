@@ -10,7 +10,6 @@
 
 #--------------------List--------------------#
 
-0.0.0 cdn.appnext.com
 0.0.0.0 0523da02.api.splkmobile.com
 0.0.0.0 10039426.fls.doubleclick.net
 0.0.0.0 10049783.fls.doubleclick.net
@@ -484,6 +483,7 @@
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.ap.bittorrent.com
 0.0.0.0 cdn.appdynamics.com
+0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.appsmav.com
 0.0.0.0 cdn.automatad.com
 0.0.0.0 cdn.coinzilla.io
