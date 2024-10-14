@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   01 February 2024 02:56 IST
+# Last modified:   15 October 2024 00:40 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2024.02.01-1
+# Version:         2024.10.15-1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -112,6 +112,7 @@
 0.0.0.0 aa.cbsnews.com
 0.0.0.0 aa.online-metrix.net
 0.0.0.0 aamt.nbcnews.com
+0.0.0.0 aan.amazon.ae
 0.0.0.0 aan.amazon.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon.in
@@ -167,6 +168,7 @@
 0.0.0.0 adidasgroup-app.quantummetric.com
 0.0.0.0 adingo.jp
 0.0.0.0 adinplay.com
+0.0.0.0 adj.st
 0.0.0.0 adjust.com
 0.0.0.0 adjust.world
 0.0.0.0 adlife.g2afse.com
@@ -178,6 +180,7 @@
 0.0.0.0 adnxs.com
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobedc.demdex.net
+0.0.0.0 adokutcontextual.com
 0.0.0.0 adphibia.g2afse.com
 0.0.0.0 adpushup.com
 0.0.0.0 adrecover.com
@@ -308,8 +311,10 @@
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 aos-creative.prf.hn
 0.0.0.0 ap.lijit.com
+0.0.0.0 apcdp.apnews.com
 0.0.0.0 apcinfo.motorolasolutions.com
 0.0.0.0 api-2-0.spot.im
+0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-js.datadome.co
 0.0.0.0 api.ad.intl.xiaomi.com
@@ -449,6 +454,7 @@
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 branch.io
 0.0.0.0 braze.com
+0.0.0.0 braze.eu
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.events.data.msn.com
@@ -579,6 +585,7 @@
 0.0.0.0 clientgear.com
 0.0.0.0 clientlog.portal.office.com
 0.0.0.0 clients.fitanalytics.com
+0.0.0.0 clixforads.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cm.adform.net
 0.0.0.0 cm.ctnsnet.com
@@ -779,6 +786,7 @@
 0.0.0.0 fastly-insights.com
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fcg-api.exponea.com
+0.0.0.0 fclick.baidu.com
 0.0.0.0 fearlessfaucet.com
 0.0.0.0 fedex.demdex.net
 0.0.0.0 fedex.tt.omtrdc.net
@@ -837,9 +845,11 @@
 0.0.0.0 glance.l.inmobicdn.net
 0.0.0.0 glassboxdigital.io
 0.0.0.0 global.appnext.com
+0.0.0.0 global.proper.io
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalemedia.net
+0.0.0.0 gnar.grammarly.com
 0.0.0.0 go-rilla.g2afse.com
 0.0.0.0 go.automatad.com
 0.0.0.0 go.nordvpn.net
@@ -888,6 +898,7 @@
 0.0.0.0 hsbcbankgbm.demdex.net
 0.0.0.0 hspx.hotstar.com
 0.0.0.0 ht.pornhub.com
+0.0.0.0 hueadsxml.com
 0.0.0.0 hyundaimotor.demdex.net
 0.0.0.0 i.faphouse.com
 0.0.0.0 i.salecycle.com
@@ -922,6 +933,7 @@
 0.0.0.0 images.taboola.com
 0.0.0.0 images.viglink.com
 0.0.0.0 imagesvc.meredithcorp.io
+0.0.0.0 img.en25.com
 0.0.0.0 img.riskified.com
 0.0.0.0 img03.en25.com
 0.0.0.0 img06.en25.com
@@ -966,6 +978,7 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 intelcorp.demdex.net
+0.0.0.0 intellitxt.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intljs.rmtag.com
 0.0.0.0 ios.unid.go.com
@@ -1055,6 +1068,7 @@
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.juspay.in
 0.0.0.0 logs.naukri.com
+0.0.0.0 logs.netflix.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
@@ -1069,6 +1083,7 @@
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 mailderef.mail.com
+0.0.0.0 mainadv.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketingplatform.google.com
 0.0.0.0 marketo.com
@@ -1092,6 +1107,7 @@
 0.0.0.0 media.flixfacts.com
 0.0.0.0 mediago.io
 0.0.0.0 member.naiadsystems.com
+0.0.0.0 merchandise.opera-api.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-production.fitanalytics.com
 0.0.0.0 metrics.api.drift.com
@@ -1194,6 +1210,7 @@
 0.0.0.0 openweb.jac.yahoosandbox.com
 0.0.0.0 openx.net
 0.0.0.0 openx2-match.dotomi.com
+0.0.0.0 opr.adx.opera.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optimize.google.com
 0.0.0.0 optimizely.com
@@ -1225,6 +1242,7 @@
 0.0.0.0 perr.l-agent.me
 0.0.0.0 perr.l-err.biz
 0.0.0.0 perr.lum-sdk.io
+0.0.0.0 personalization.bloomberg.com
 0.0.0.0 personalization.centech.glulive.com
 0.0.0.0 pghub.io
 0.0.0.0 phonograph2.voxmedia.com
@@ -1339,6 +1357,7 @@
 0.0.0.0 revive-adserver.net
 0.0.0.0 revopush.com
 0.0.0.0 rezync.com
+0.0.0.0 rightswipe.gotrackier.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rmtag.com
 0.0.0.0 rogers.demdex.net
@@ -1360,9 +1379,11 @@
 0.0.0.0 rustytableclearance.com
 0.0.0.0 s-img.mgid.com
 0.0.0.0 s-onetag.com
+0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.faphouse.com
 0.0.0.0 s.go-mpulse.net
+0.0.0.0 s.ntv.io
 0.0.0.0 s.salecycle.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.wp.com
@@ -1385,6 +1406,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 scarabresearch.com
+0.0.0.0 scaredsnakes.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 sdk-01.moengage.com
@@ -1453,6 +1475,7 @@
 0.0.0.0 smetrics.hdfcbank.com
 0.0.0.0 smetrics.nfl.com
 0.0.0.0 smetrics.puma.com
+0.0.0.0 smetrics.samsung.com
 0.0.0.0 smetrics.sky.com
 0.0.0.0 smetrics.tataaig.com
 0.0.0.0 smilewanted.com
@@ -1462,10 +1485,13 @@
 0.0.0.0 snowplow-pixel.tradingview.com
 0.0.0.0 socdm.com
 0.0.0.0 sokrati.com
+0.0.0.0 somni.sbimobility.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 sonymusic.112.2o7.net
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 sp.vtex.com
+0.0.0.0 sp1.baidu.com
+0.0.0.0 speeddials.opera.com
 0.0.0.0 spotxchange.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.buysellads.com
@@ -1546,6 +1572,8 @@
 0.0.0.0 sync.taboola.com
 0.0.0.0 sync.unoadsrv.com
 0.0.0.0 syndication.realsrv.com
+0.0.0.0 t-odx.op-mobile.opera.com
+0.0.0.0 t.adx.opera.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.imgur.com
@@ -1553,6 +1581,7 @@
 0.0.0.0 t13.io
 0.0.0.0 tag.1rx.io
 0.0.0.0 tag.adbro.me
+0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tag.nrich.ai
 0.0.0.0 tag.simpli.fi
@@ -1606,6 +1635,7 @@
 0.0.0.0 thumb-v7.xhcdn.com
 0.0.0.0 thumb-v8.xhcdn.com
 0.0.0.0 thumb-v9.xhcdn.com
+0.0.0.0 tidyllama.com
 0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tingyun.com
 0.0.0.0 titan.tt.omtrdc.net
@@ -1632,12 +1662,14 @@
 0.0.0.0 track.cooins.mobi
 0.0.0.0 track.customer.io
 0.0.0.0 track.dictionary.com
+0.0.0.0 track.hubspot.com
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.mobrider.com
 0.0.0.0 track.paytm.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 trackbar.navigator-lxa.mail.com
 0.0.0.0 trackedlink.net
+0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.globalemedia.net
 0.0.0.0 tracking.india.miui.com
@@ -1648,8 +1680,11 @@
 0.0.0.0 tracking.sexcash.com
 0.0.0.0 trackjs.com
 0.0.0.0 traxex.gannettdigital.com
+0.0.0.0 trckswrm.com
+0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
 0.0.0.0 tremorhub.com
+0.0.0.0 tri.media
 0.0.0.0 trk.clinch.co
 0.0.0.0 trk.pinterest.com
 0.0.0.0 tru.am
@@ -1721,6 +1756,7 @@
 0.0.0.0 vlscppe.microsoft.com
 0.0.0.0 vmn.net
 0.0.0.0 vmwareinc.demdex.net
+0.0.0.0 vodafonein.data.adobedc.net
 0.0.0.0 vodafoneindia.tt.omtrdc.net
 0.0.0.0 volts.shopping.naver.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
