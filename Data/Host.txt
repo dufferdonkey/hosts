@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   15 October 2024 00:40 IST
+# Last modified:   27 December 2024 00:38 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2024.10.15-1
+# Version:         2024.12.27-1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -1845,3 +1845,16 @@
 0.0.0.0 zta.containers.piwik.pro
 0.0.0.0 zta.piwik.pro
 0.0.0.0 zwyr157wwiu6eior.com
+
+# Date - 26/Dec/2024
+0.0.0.0 yesbank.tt.omtrdc.net
+0.0.0.0 adsbynimbus.com
+0.0.0.0 tatadigitallimited.sc.omtrdc.net
+0.0.0.0 tatadigital.demdex.net
+0.0.0.0 analytics.tatadigital.com
+0.0.0.0 adsdk.microsoft.com
+0.0.0.0 statsigapi.net
+0.0.0.0 api.statsig.com
+0.0.0.0 collection.decibelinsight.net
+0.0.0.0 adtrafficquality.google
+0.0.0.0 who.nie.easebar.com
