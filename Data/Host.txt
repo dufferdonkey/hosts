@@ -1,7 +1,7 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   27 December 2024 00:38 IST
+# Last modified:   14 January 2025 01:50 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
 # Version:         2024.12.27-1
@@ -1858,3 +1858,18 @@
 0.0.0.0 collection.decibelinsight.net
 0.0.0.0 adtrafficquality.google
 0.0.0.0 who.nie.easebar.com
+
+
+# Date - 14/Jan/2025
+0.0.0.0 ccgateway.net
+0.0.0.0 agi-static.indiatimes.com
+0.0.0.0 ad.gt
+0.0.0.0 cromaretail.tt.omtrdc.net
+0.0.0.0 site24x7rum.in
+0.0.0.0 prodregistryv2.org
+0.0.0.0 youborafds01.com
+0.0.0.0 eventrecorder.cm.bloomberg.com
+0.0.0.0 ny77jj.washingtonpost.com
+0.0.0.0 3gl.net
+0.0.0.0 dynatrace-managed.com
+0.0.0.0 collector.superwall.me
