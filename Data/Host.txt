@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   14 January 2025 01:50 IST
+# Last modified:   03 February 2025 01:08 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2024.12.27-1
+# Version:         2025.02.03-1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -1873,3 +1873,40 @@
 0.0.0.0 3gl.net
 0.0.0.0 dynatrace-managed.com
 0.0.0.0 collector.superwall.me
+
+# Date - 03/Feb/2025
+0.0.0.0 adrta.com
+0.0.0.0 wsdk-files.webengage.com
+0.0.0.0 app.adjust.io
+0.0.0.0 js-cdn.dynatrace.com
+0.0.0.0 media-412.com
+0.0.0.0 click.discord.com
+0.0.0.0 trk.superads.cn
+0.0.0.0 log.voicecloud.cn
+0.0.0.0 shareasale.com
+0.0.0.0 xray.mail.ru
+0.0.0.0 ad.mail.ru
+0.0.0.0 clickbank.com
+0.0.0.0 target.bankofamerica.com
+0.0.0.0 hikari.jiocinema.com
+0.0.0.0 mosspf.com
+0.0.0.0 metrics.doppiostreams.com
+0.0.0.0 stripchat.com
+0.0.0.0 stquality.org
+0.0.0.0 bbrdbr.com
+0.0.0.0 xlivesex.com
+0.0.0.0 magsrv.com
+0.0.0.0 pemsrv.com
+0.0.0.0 track.tenjin.io
+0.0.0.0 pixelzirkus.gameforge.com
+0.0.0.0 v.shopify.com
+0.0.0.0 rum-static.pingdom.net
+0.0.0.0 argo.svcmot.com
+0.0.0.0 activity.windows.com
+0.0.0.0 moloco.com
+0.0.0.0 adservice.google.com.vn
+0.0.0.0 clk.omgt1.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 a300.adstattrack.com
+0.0.0.0 lgtvcommon.com
+0.0.0.0 kvaedit.site
