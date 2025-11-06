@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   03 February 2025 01:08 IST
+# Last modified:   06 Novembor 2025 23:36 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2025.02.03-1
+# Version:         2025.06.11-1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -1859,7 +1859,6 @@
 0.0.0.0 adtrafficquality.google
 0.0.0.0 who.nie.easebar.com
 
-
 # Date - 14/Jan/2025
 0.0.0.0 ccgateway.net
 0.0.0.0 agi-static.indiatimes.com
@@ -1910,3 +1909,29 @@
 0.0.0.0 a300.adstattrack.com
 0.0.0.0 lgtvcommon.com
 0.0.0.0 kvaedit.site
+
+# Date - 06/Nov/2025
+0.0.0.0 api.lab.amplitude.com
+0.0.0.0 flag.lab.amplitude.com
+0.0.0.0 error-tracking.reddit.com
+0.0.0.0 ad-delivery.net
+0.0.0.0 arc.msn.com
+0.0.0.0 track.zomato.com
+0.0.0.0 inmobi.com
+0.0.0.0 view.adjust.com
+0.0.0.0 ebxcdn.com
+0.0.0.0 carrick-ui.advoncommerce.com
+0.0.0.0 unibotscdn.com
+0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
+0.0.0.0 adtrack.king.com
+0.0.0.0 track.analytics-data.io
+0.0.0.0 js-sdk.analytics-data.io
+0.0.0.0 xp.apple.com
+0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
+0.0.0.0 bugsnag.alexa-mobile.amazon.dev
+0.0.0.0 bugsnag.com
+0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 xz.fbcdn.net
+0.0.0.0 minerva.devices.a2z.com
