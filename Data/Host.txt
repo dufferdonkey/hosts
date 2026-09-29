@@ -102,7 +102,6 @@
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.klaviyo.com
-0.0.0.0 a.nel.cloudflare.com
 0.0.0.0 a.pub.network
 0.0.0.0 a.quora.com
 0.0.0.0 a.realsrv.com
