@@ -1,10 +1,10 @@
 # Title: dufferdonkey's filter
 
 # Description:     This host file is a combined of hosts from reliable sources. Blocks ads, analytics, cookies, malware & tracking.
-# Last modified:   06 Novembor 2025 23:36 IST
+# Last modified:   30 September 2026 02:34 IST
 # Format:          Hosts
 # Email:           devenmodi[at]pm[dot]me (For addition and correction)
-# Version:         2025.06.11-1
+# Version:         2026.09.30-1
 # Start date:      1 Oct 2022
 # URL:             https://raw.githubusercontent.com/dufferdonkey/hosts/master/Data/Host.txt
 
@@ -87,7 +87,7 @@
 0.0.0.0 8914884.fls.doubleclick.net
 0.0.0.0 9017026.fls.doubleclick.net
 0.0.0.0 9049902.fls.doubleclick.net
-0.0.0.0 9213422.fls.doubleclick.net.
+0.0.0.0 9213422.fls.doubleclick.net
 0.0.0.0 9321158.fls.doubleclick.net
 0.0.0.0 9360111.fls.doubleclick.net
 0.0.0.0 943.engine.mobileapptracking.com
@@ -559,7 +559,7 @@
 0.0.0.0 cdn4-hbs.affinitymatrix.com
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn9.forter.com
-0.0.0.0 cdnt.netcoresmartech.com
+0.0.0.0 cdn.netcoresmartech.com
 0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 ced.sascdn.com
@@ -763,7 +763,7 @@
 0.0.0.0 event.condenastdigital.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlogger.soundcloud.com
-0.0.0.0 events.launchdarkly.com# Title: dufferdonkey's filter
+0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
@@ -956,7 +956,7 @@
 0.0.0.0 ind.v2.we-stats.com
 0.0.0.0 indexww.com
 0.0.0.0 india.activity.browser.intl.miui.com
-0.0.0.0 indigoaviation.sc.omtrdc.netAAAA
+0.0.0.0 indigoaviation.sc.omtrdc.net
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 info.amplitude.com
 0.0.0.0 informer.yandex.ru
@@ -1362,7 +1362,7 @@
 0.0.0.0 rmtag.com
 0.0.0.0 rogers.demdex.net
 0.0.0.0 rojdkv-cdn-settings.appsflyersdk.com
-0.0.0.0 routesmedia.o18.clickA
+0.0.0.0 routesmedia.o18.click
 0.0.0.0 rover.ebay.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rt.applovin.com
@@ -1768,7 +1768,7 @@
 0.0.0.0 vungle.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 w3-reporting-nel.reddit.com
-0.0.0.0 w3-reporting.reddit.com 
+0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w88.espn.com
 0.0.0.0 wa.mail.com
 0.0.0.0 walmart-sync.quantummetric.com
@@ -1846,7 +1846,6 @@
 0.0.0.0 zta.piwik.pro
 0.0.0.0 zwyr157wwiu6eior.com
 
-# Date - 26/Dec/2024
 0.0.0.0 yesbank.tt.omtrdc.net
 0.0.0.0 adsbynimbus.com
 0.0.0.0 tatadigitallimited.sc.omtrdc.net
@@ -1859,7 +1858,6 @@
 0.0.0.0 adtrafficquality.google
 0.0.0.0 who.nie.easebar.com
 
-# Date - 14/Jan/2025
 0.0.0.0 ccgateway.net
 0.0.0.0 agi-static.indiatimes.com
 0.0.0.0 ad.gt
@@ -1873,7 +1871,6 @@
 0.0.0.0 dynatrace-managed.com
 0.0.0.0 collector.superwall.me
 
-# Date - 03/Feb/2025
 0.0.0.0 adrta.com
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 app.adjust.io
@@ -1910,7 +1907,6 @@
 0.0.0.0 lgtvcommon.com
 0.0.0.0 kvaedit.site
 
-# Date - 06/Nov/2025
 0.0.0.0 api.lab.amplitude.com
 0.0.0.0 flag.lab.amplitude.com
 0.0.0.0 error-tracking.reddit.com
@@ -1935,3 +1931,36 @@
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 xz.fbcdn.net
 0.0.0.0 minerva.devices.a2z.com
+
+0.0.0.0 collector-pxrf8vapwa.perimeterx.net
+0.0.0.0 collector-pxel3l4xih.perimeterx.net
+0.0.0.0 client.perimeterx.net
+0.0.0.0 fra-01.braze.eu
+0.0.0.0 cdn.braze.eu
+0.0.0.0 blink.fra-01.braze.eu
+0.0.0.0 clusava.fra-01.braze.eu
+0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 api.kochava.com
+0.0.0.0 token.api.kochava.com
+0.0.0.0 assets.kochava.com
+0.0.0.0 web-sdk.control.kochava.com
+0.0.0.0 1437953666.rsc.cdn77.org
+0.0.0.0 1991482557.rsc.cdn77.org
+0.0.0.0 1080872514.rsc.cdn77.org
+0.0.0.0 1187531871.rsc.cdn77.org
+0.0.0.0 1208344341.rsc.cdn77.org
+0.0.0.0 1529462937.rsc.cdn77.org
+0.0.0.0 1548164934.rsc.cdn77.org
+0.0.0.0 1675450967.rsc.cdn77.org
+0.0.0.0 1208818836.rsc.cdn77.org
+0.0.0.0 hybrid.ai
+0.0.0.0 netcoresmartech.com
+0.0.0.0 cpn.netcoresmartech.com
+0.0.0.0 api.bridgeoos.com
+0.0.0.0 adx-sg-req.bridgeoos.com
+0.0.0.0 adx-os.bridgeoos.com
+0.0.0.0 datk.bridgeoos.com
+0.0.0.0 uptime2.fastrr.com
+0.0.0.0 uptime.fastrr.com
+0.0.0.0 hits.gokwik.co
+0.0.0.0 rum.hlx.page
